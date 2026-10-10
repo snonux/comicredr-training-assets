@@ -81,7 +81,7 @@ model kept at home, as `moredata/` does.
 
 From 2026-10-10 every run is kept, so the next one can start where it
 ended. With this repository beside ComicRedr, runs go in `checkpoints/`
-here (git-ignored: tens of MB each, and models trained on `moredata/` are
+here (git-ignored: some 300 MB each, and models trained on `moredata/` are
 local only), one folder a run, named `DATE-fresh`, `DATE-on-top`,
 `DATE-on-top-local-more` and so on, or `RUN=name`:
 

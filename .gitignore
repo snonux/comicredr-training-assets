@@ -3,7 +3,7 @@
 /scan/
 /moredata/sources.tsv
 __pycache__/
-# Training runs (docs: TRAINING.md): tens of MB each, and models trained on
+# Training runs (docs: TRAINING.md): some 300 MB each, and models trained on
 # moredata/ are kept at home.
 /checkpoints/
 /moredata-art/
