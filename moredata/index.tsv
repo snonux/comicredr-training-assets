@@ -1,0 +1,1124 @@
+page	layout	frames	shapes	max_slant_deg	frames_without_line	gutter	model_found	model_spare
+b001/p008.jpg	touching	4	rect:4	0.0	2	light	4	0
+b001/p023.jpg	grid	2	rect:2	0.0	0	light	2	0
+b001/p024.jpg	grid	6	rect:6	0.0	0	light	6	0
+b002/p001.jpg	notched	5	notched:3 polygon:1 slanted:1	43.8	5	dark	3	0
+b002/p007.jpg	touching	3	rect:3	0.0	1	light	3	1
+b003/p015.jpg	grid	6	rect:6	0.0	0	light	6	0
+b003/p020.jpg	single	1	rect:1	0.0	1	light	1	0
+b004/p018.jpg	grid	8	rect:8	0.0	0	light	8	0
+b008/p018.jpg	grid	6	rect:6	0.0	0	light	6	0
+b008/p025.jpg	grid	5	rect:5	0.0	0	light	5	1
+b011/p002.jpg	rounded	5	rect:2 rounded:1 slanted:2	7.0	0	light	5	0
+b011/p011.jpg	single	1	rect:1	0.0	0	light	1	0
+b012/p003.jpg	grid	4	rect:4	0.0	0	light	4	1
+b012/p008.jpg	slanted	6	rect:4 slanted:2	3.6	0	light	6	0
+b012/p012.jpg	grid	4	rect:4	0.0	0	light	4	1
+b012/p014.jpg	single	1	rect:1	0.0	0	light	1	0
+b012/p015.jpg	grid	4	rect:4	0.0	0	light	4	0
+b013/p023.jpg	grid	5	rect:5	0.0	0	light	5	0
+b013/p024.jpg	grid	5	rect:5	0.0	0	light	5	0
+b013/p025.jpg	grid	6	rect:6	0.0	1	light	6	0
+b013/p026.jpg	touching	8	rect:8	0.0	0	light	7	0
+b013/p027.jpg	grid	6	rect:6	0.0	0	light	6	0
+b015/p007.jpg	single	1	rect:1	0.0	1	light	1	0
+b015/p008.jpg	grid	5	rect:5	0.0	5	dark	4	2
+b015/p021.jpg	touching	7	rect:7	0.0	6	dark	6	0
+b015/p022.jpg	slanted	7	rect:6 slanted:1	2.7	6	dark	7	0
+b015/p026.jpg	slanted	11	rect:10 slanted:1	2.1	11	dark	11	0
+b015/p039.jpg	touching	8	rect:8	0.0	7	dark	6	0
+b015/p040.jpg	grid	5	rect:5	0.0	5	dark	5	0
+b015/p050.jpg	touching	8	rect:8	0.0	6	dark	7	0
+b015/p052.jpg	touching	7	rect:7	0.0	6	dark	5	2
+b015/p064.jpg	grid	6	rect:6	0.0	6	dark	6	1
+b015/p065.jpg	touching	8	rect:8	0.0	8	dark	5	1
+b015/p066.jpg	touching	5	rect:5	0.0	4	dark	5	0
+b015/p081.jpg	touching	7	rect:7	0.0	7	dark	6	0
+b015/p087.jpg	grid	5	rect:5	0.0	5	dark	5	0
+b015/p097.jpg	touching	6	rect:6	0.0	4	dark	5	0
+b015/p107.jpg	grid	5	rect:5	0.0	5	dark	5	0
+b015/p108.jpg	touching	7	rect:7	0.0	7	dark	5	0
+b015/p120.jpg	touching	7	rect:7	0.0	7	dark	7	0
+b015/p124.jpg	grid	5	rect:5	0.0	4	dark	5	1
+b016/p011.jpg	grid	6	rect:6	0.0	1	light	6	0
+b016/p019.jpg	touching	8	rect:8	0.0	0	light	8	0
+b016/p023.jpg	grid	2	rect:2	0.0	0	light	2	0
+b016/p028.jpg	slanted	6	rect:4 slanted:2	2.8	0	light	6	0
+b016/p029.jpg	touching	6	rect:6	0.0	0	light	6	0
+b016/p045.jpg	grid	3	rect:3	0.0	2	light	3	0
+b016/p048.jpg	grid	3	rect:3	0.0	0	light	3	0
+b016/p049.jpg	touching	8	rect:8	0.0	1	light	7	0
+b016/p053.jpg	grid	5	rect:5	0.0	1	light	5	0
+b016/p055.jpg	grid	5	rect:5	0.0	0	light	5	0
+b017/p007.jpg	grid	4	rect:4	0.0	1	light	4	1
+b017/p008.jpg	grid	4	rect:4	0.0	0	light	4	0
+b017/p012.jpg	touching	2	rect:2	0.0	0	light	2	0
+b017/p013.jpg	grid	6	rect:6	0.0	0	light	6	0
+b017/p044.jpg	single	1	rect:1	0.0	1	light	1	0
+b017/p055.jpg	grid	3	rect:3	0.0	0	light	3	0
+b017/p056.jpg	grid	3	rect:3	0.0	0	light	3	0
+b017/p068.jpg	grid	3	rect:3	0.0	0	light	3	0
+b018/p015.jpg	slanted	1	slanted:1	5.4	1	light	1	0
+b018/p016.jpg	grid	3	rect:3	0.0	3	light	3	0
+b018/p020.jpg	single	1	rect:1	0.0	0	light	1	0
+b018/p022.jpg	touching	6	rect:6	0.0	5	light	6	0
+b018/p025.jpg	touching	6	rect:6	0.0	6	light	6	0
+b018/p026.jpg	touching	6	rect:6	0.0	6	light	6	0
+b018/p029.jpg	touching	6	rect:6	0.0	6	light	6	0
+b018/p037.jpg	rounded	1	rounded:1	0.0	1	light	1	0
+b018/p039.jpg	grid	4	rect:4	0.0	0	light	4	0
+b018/p045.jpg	grid	3	rect:3	0.0	1	light	3	0
+b018/p047.jpg	touching	4	rect:4	0.0	3	light	3	0
+b018/p062.jpg	notched	4	notched:1 rect:3	0.4	1	light	3	0
+b018/p070.jpg	grid	2	rect:2	0.0	0	light	2	0
+b018/p082.jpg	touching	2	rect:2	0.0	1	light	1	1
+b018/p096.jpg	grid	3	rect:3	0.0	0	light	3	0
+b018/p107.jpg	slanted	1	slanted:1	3.5	1	light	1	0
+b018/p136.jpg	touching	5	rect:5	0.0	2	light	5	0
+b018/p138.jpg	touching	5	rect:5	0.0	5	light	4	0
+b018/p143.jpg	grid	3	rect:3	0.0	0	light	3	0
+b018/p151.jpg	rounded	1	rounded:1	0.1	1	light	1	0
+b019/p004.jpg	notched	7	notched:3 rect:4	0.2	6	dark	4	0
+b019/p024.jpg	grid	4	rect:4	0.0	1	light	4	0
+b019/p045.jpg	single	1	rect:1	0.0	1	light	1	0
+b019/p075.jpg	grid	6	rect:6	0.0	3	light	6	0
+b019/p090.jpg	slanted	1	slanted:1	3.9	1	light	1	0
+b019/p101.jpg	grid	5	rect:5	0.0	0	light	5	1
+b019/p110.jpg	slanted	1	slanted:1	1.6	0	light	1	0
+b019/p111.jpg	rounded	1	rounded:1	0.3	0	light	1	0
+b019/p119.jpg	slanted	6	rect:1 slanted:5	3.1	0	light	6	0
+b019/p134.jpg	rounded	1	rounded:1	0.5	0	light	1	0
+b020/p004.jpg	grid	2	rect:2	0.0	2	dark	2	0
+b020/p013.jpg	single	1	rect:1	0.0	1	dark	1	0
+b020/p024.jpg	rounded	4	rounded:2 slanted:2	2.1	4	dark	4	0
+b020/p027.jpg	rounded	4	rounded:2 slanted:2	3.5	4	dark	4	0
+b020/p060.jpg	grid	3	rect:3	0.0	3	light	3	0
+b020/p067.jpg	notched	4	notched:1 rect:3	0.0	4	light	4	0
+b020/p070.jpg	grid	4	rect:4	0.0	4	light	4	0
+b021/p063.jpg	grid	4	rect:4	0.0	3	light	4	0
+b021/p065.jpg	grid	7	rect:7	0.0	1	light	7	0
+b021/p066.jpg	grid	4	rect:4	0.0	4	light	4	0
+b021/p070.jpg	touching	5	rect:5	0.0	3	light	4	0
+b021/p071.jpg	grid	5	rect:5	0.0	2	light	5	0
+b021/p076.jpg	slanted	6	rect:5 slanted:1	2.5	1	light	6	0
+b021/p077.jpg	grid	3	rect:3	0.0	1	light	3	0
+b021/p079.jpg	single	1	rect:1	0.0	1	light	1	0
+b021/p082.jpg	grid	3	rect:3	0.0	0	light	3	0
+b022/p002.jpg	single	1	rect:1	0.0	1	light	1	2
+b022/p014.jpg	grid	4	rect:4	0.0	4	light	4	0
+b022/p037.jpg	grid	4	rect:4	0.0	3	light	4	0
+b023/p003.jpg	grid	2	rect:2	0.0	2	dark	2	1
+b023/p005.jpg	grid	3	rect:3	0.0	3	dark	3	0
+b023/p015.jpg	grid	4	rect:4	0.0	3	dark	4	0
+b023/p022.jpg	grid	2	rect:2	0.0	2	dark	2	0
+b023/p025.jpg	single	1	rect:1	0.0	1	dark	1	0
+b024/p008.jpg	grid	4	rect:4	0.0	0	light	4	0
+b024/p022.jpg	slanted	6	rect:5 slanted:1	3.2	0	light	6	0
+b024/p026.jpg	grid	4	rect:4	0.0	0	light	4	0
+b024/p045.jpg	grid	4	rect:4	0.0	0	light	4	0
+b024/p061.jpg	touching	7	rect:7	0.0	0	light	6	0
+b024/p063.jpg	notched	3	notched:1 rect:2	0.5	0	light	3	0
+b024/p088.jpg	single	1	rect:1	0.0	0	light	1	0
+b024/p089.jpg	grid	5	rect:5	0.0	0	light	5	0
+b024/p093.jpg	touching	6	rect:6	0.0	0	light	6	0
+b024/p112.jpg	grid	5	rect:5	0.0	1	light	5	0
+b024/p139.jpg	grid	4	rect:4	0.0	0	light	4	0
+b025/p004.jpg	grid	3	rect:3	0.0	2	light	3	0
+b025/p005.jpg	rounded	2	rect:1 rounded:1	20.3	1	light	2	0
+b025/p018.jpg	notched	4	notched:1 rect:1 slanted:2	37.0	0	light	4	0
+b025/p023.jpg	grid	2	rect:2	0.0	2	light	2	0
+b025/p025.jpg	grid	3	rect:3	0.0	0	light	3	0
+b026/p004.jpg	grid	3	rect:3	0.0	1	light	3	0
+b026/p007.jpg	grid	4	rect:4	0.0	2	light	4	0
+b026/p010.jpg	grid	4	rect:4	0.0	3	light	4	0
+b026/p011.jpg	touching	5	rect:5	0.0	1	light	5	0
+b026/p017.jpg	grid	3	rect:3	0.0	3	light	3	0
+b026/p019.jpg	grid	4	rect:4	0.0	2	light	4	0
+b026/p026.jpg	grid	4	rect:4	0.0	2	light	4	0
+b026/p027.jpg	slanted	1	slanted:1	4.1	1	light	1	0
+b026/p080.jpg	single	1	rect:1	0.0	1	light	1	0
+b027/p013.jpg	grid	2	rect:2	0.0	2	light	2	0
+b027/p017.jpg	grid	3	rect:3	0.0	1	light	3	0
+b027/p018.jpg	grid	3	rect:3	0.0	2	light	3	0
+b027/p019.jpg	grid	2	rect:2	0.0	2	light	2	0
+b027/p022.jpg	grid	3	rect:3	0.0	2	light	3	0
+b027/p028.jpg	grid	3	rect:3	0.0	1	light	3	0
+b029/p001.jpg	grid	5	rect:5	0.0	0	light	5	0
+b029/p003.jpg	grid	5	rect:5	0.0	0	light	5	0
+b030/p001.jpg	notched	4	notched:1 rect:3	0.1	0	light	4	0
+b031/p002.jpg	grid	4	rect:4	0.0	0	light	4	0
+b031/p003.jpg	grid	4	rect:4	0.0	0	light	4	0
+b032/p001.jpg	grid	5	rect:5	0.0	0	light	5	0
+b032/p002.jpg	grid	6	rect:6	0.0	0	light	6	0
+b032/p003.jpg	grid	7	rect:7	0.0	0	light	7	0
+b032/p004.jpg	grid	6	rect:6	0.0	0	light	6	1
+b033/p003.jpg	touching	6	rect:6	0.0	1	light	6	0
+b033/p009.jpg	grid	6	rect:6	0.0	0	light	6	0
+b033/p013.jpg	grid	6	rect:6	0.0	0	light	6	0
+b033/p016.jpg	grid	8	rect:8	0.0	0	light	8	0
+b033/p017.jpg	grid	6	rect:6	0.0	0	light	6	0
+b033/p026.jpg	grid	6	rect:6	0.0	0	light	6	0
+b033/p027.jpg	grid	5	rect:5	0.0	0	light	5	0
+b033/p035.jpg	slanted	1	slanted:1	10.1	1	light	1	0
+b034/p015.jpg	slanted	4	slanted:4	8.1	2	light	4	0
+b034/p023.jpg	grid	6	rect:6	0.0	1	light	6	0
+b039/p003.jpg	grid	4	rect:4	0.0	1	light	4	0
+b039/p010.jpg	notched	2	notched:1 rect:1	0.1	0	light	2	1
+b039/p013.jpg	grid	4	rect:4	0.0	0	light	4	0
+b039/p019.jpg	grid	2	rect:2	0.0	1	light	2	0
+b040/p011.jpg	slanted	2	slanted:2	9.1	2	light	2	1
+b040/p023.jpg	slanted	3	slanted:3	15.5	3	light	3	0
+b040/p025.jpg	grid	2	rect:2	0.0	2	light	2	0
+b040/p026.jpg	single	1	rect:1	0.0	1	light	1	0
+b040/p027.jpg	grid	2	rect:2	0.0	2	light	2	0
+b041/p006.jpg	touching	3	rect:3	0.0	0	light	3	0
+b041/p007.jpg	grid	3	rect:3	0.0	0	light	3	0
+b041/p010.jpg	slanted	2	slanted:2	35.3	0	light	2	0
+b041/p015.jpg	grid	2	rect:2	0.0	0	light	2	1
+b041/p021.jpg	single	1	rect:1	0.0	0	light	1	1
+b041/p065.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p066.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p067.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p068.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p069.jpg	touching	3	rect:3	0.0	0	light	3	0
+b041/p073.jpg	touching	2	rect:2	0.0	1	light	2	0
+b041/p075.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p076.jpg	touching	3	rect:3	0.0	0	light	3	0
+b041/p077.jpg	touching	3	rect:3	0.0	1	light	3	0
+b041/p078.jpg	touching	3	rect:3	0.0	1	light	3	0
+b041/p079.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p081.jpg	touching	2	rect:2	0.0	0	light	2	0
+b041/p120.jpg	grid	2	rect:2	0.0	0	light	2	0
+b041/p121.jpg	touching	3	rect:3	0.0	0	light	3	0
+b041/p128.jpg	grid	2	rect:2	0.0	0	light	2	0
+b041/p139.jpg	grid	2	rect:2	0.0	0	light	2	0
+b041/p145.jpg	grid	2	rect:2	0.0	0	light	2	0
+b042/p000.jpg	slanted	1	slanted:1	3.1	1	dark	1	1
+b042/p018.jpg	grid	8	rect:8	0.0	1	light	8	0
+b042/p023.jpg	grid	9	rect:9	0.0	1	light	9	0
+b042/p027.jpg	grid	6	rect:6	0.0	1	light	6	1
+b042/p029.jpg	grid	4	rect:4	0.0	0	light	4	0
+b042/p030.jpg	grid	4	rect:4	0.0	0	light	4	0
+b042/p037.jpg	polygon	4	polygon:1 rect:2 slanted:1	15.6	2	light	3	0
+b042/p039.jpg	slanted	4	rect:3 slanted:1	43.3	1	light	4	0
+b042/p045.jpg	grid	6	rect:6	0.0	0	light	6	0
+b043/p008.jpg	single	1	rect:1	0.0	0	light	1	0
+b043/p012.jpg	notched	11	notched:1 rect:9 slanted:1	32.6	4	light	11	0
+b044/p001.jpg	slanted	4	slanted:4	13.6	4	light	4	0
+b044/p003.jpg	touching	8	rect:8	0.0	7	light	7	0
+b044/p004.jpg	touching	4	rect:4	0.0	4	light	4	0
+b044/p005.jpg	slanted	2	slanted:2	18.3	2	light	2	0
+b044/p006.jpg	grid	5	rect:5	0.0	3	light	5	0
+b044/p007.jpg	touching	6	rect:6	0.0	3	light	6	0
+b044/p008.jpg	touching	5	rect:5	0.0	4	light	5	0
+b044/p009.jpg	grid	3	rect:3	0.0	3	light	3	0
+b044/p010.jpg	grid	2	rect:2	0.0	0	light	2	0
+b044/p011.jpg	slanted	3	slanted:3	19.2	2	light	3	0
+b044/p013.jpg	polygon	3	polygon:1 slanted:2	29.9	1	light	3	0
+b044/p016.jpg	grid	3	rect:3	0.0	1	light	3	0
+b044/p017.jpg	grid	3	rect:3	0.0	2	light	3	0
+b044/p018.jpg	grid	2	rect:2	0.0	2	light	2	0
+b044/p020.jpg	notched	4	notched:1 rect:2 slanted:1	14.0	1	light	4	0
+b044/p023.jpg	single	1	rect:1	0.0	1	dark	1	0
+b047/p009.jpg	single	1	rect:1	0.0	0	light	1	0
+b047/p076.jpg	grid	7	rect:7	0.0	1	light	7	0
+b048/p016.jpg	notched	5	notched:1 rect:4	0.1	2	light	5	0
+b048/p022.jpg	touching	6	rect:6	0.0	5	light	5	2
+b048/p025.jpg	grid	5	rect:5	0.0	5	light	5	0
+b050/p032.jpg	slanted	3	rect:2 slanted:1	9.0	1	dark	3	1
+b051/p000.jpg	rounded	1	rounded:1	35.5	1	dark	1	0
+b052/p000.jpg	single	1	rect:1	0.0	1	dark	1	0
+b052/p009.jpg	slanted	4	rect:3 slanted:1	4.3	3	light	4	0
+b052/p026.jpg	grid	4	rect:4	0.0	0	light	4	0
+b052/p028.jpg	slanted	5	slanted:5	9.5	3	light	5	0
+b053/p031.jpg	grid	4	rect:4	0.0	4	light	3	1
+b053/p032.jpg	single	1	rect:1	0.0	1	light	1	0
+b054/p003.jpg	grid	8	rect:8	0.0	0	light	8	0
+b054/p005.jpg	slanted	7	rect:6 slanted:1	4.1	0	light	7	1
+b054/p009.jpg	touching	8	rect:8	0.0	0	light	8	0
+b054/p010.jpg	grid	5	rect:5	0.0	0	light	5	1
+b054/p014.jpg	notched	7	notched:1 rect:6	0.2	1	light	7	0
+b054/p020.jpg	grid	7	rect:7	0.0	0	light	7	0
+b054/p051.jpg	slanted	7	rect:6 slanted:1	4.5	0	light	7	1
+b054/p054.jpg	grid	8	rect:8	0.0	0	light	8	0
+b054/p059.jpg	grid	4	rect:4	0.0	0	light	4	0
+b054/p066.jpg	grid	8	rect:8	0.0	0	light	8	0
+b054/p068.jpg	slanted	9	rect:8 slanted:1	1.7	0	light	9	0
+b055/p025.jpg	single	1	rect:1	0.0	1	light	1	0
+b056/p003.jpg	notched	6	notched:1 rect:5	0.2	0	light	6	0
+b056/p005.jpg	slanted	8	rect:7 slanted:1	3.4	0	light	8	0
+b056/p012.jpg	grid	6	rect:6	0.0	0	light	6	0
+b056/p013.jpg	grid	8	rect:8	0.0	0	light	8	0
+b056/p014.jpg	grid	7	rect:7	0.0	0	light	7	0
+b056/p016.jpg	grid	8	rect:8	0.0	0	light	8	0
+b056/p017.jpg	grid	8	rect:8	0.0	0	light	8	0
+b056/p018.jpg	grid	8	rect:8	0.0	0	light	8	0
+b057/p003.jpg	grid	8	rect:8	0.0	0	light	8	0
+b057/p007.jpg	grid	7	rect:7	0.0	0	light	7	0
+b057/p013.jpg	grid	8	rect:8	0.0	0	light	8	0
+b057/p014.jpg	grid	7	rect:7	0.0	0	light	7	0
+b057/p019.jpg	grid	7	rect:7	0.0	0	light	7	0
+b057/p022.jpg	grid	4	rect:4	0.0	0	light	4	0
+b057/p024.jpg	touching	8	rect:8	0.0	0	light	7	0
+b058/p030.jpg	notched	6	notched:1 rect:5	0.1	0	light	6	0
+b058/p032.jpg	slanted	8	rect:7 slanted:1	3.4	0	light	8	0
+b058/p039.jpg	grid	6	rect:6	0.0	0	light	6	0
+b058/p041.jpg	grid	7	rect:7	0.0	0	light	7	0
+b058/p045.jpg	touching	9	rect:9	0.0	0	light	9	0
+b058/p049.jpg	touching	8	rect:8	0.0	0	light	7	0
+b058/p055.jpg	grid	7	rect:7	0.0	0	light	7	0
+b058/p063.jpg	grid	7	rect:7	0.0	0	light	7	0
+b058/p066.jpg	grid	6	rect:6	0.0	0	light	6	0
+b058/p070.jpg	slanted	7	rect:6 slanted:1	6.4	0	light	7	0
+b058/p073.jpg	grid	4	rect:4	0.0	0	light	4	0
+b058/p075.jpg	touching	8	rect:8	0.0	0	light	7	0
+b059/p003.jpg	grid	5	rect:5	0.0	0	light	5	0
+b059/p004.jpg	touching	6	rect:6	0.0	0	light	6	0
+b061/p003.jpg	grid	4	rect:4	0.0	0	light	4	0
+b061/p010.jpg	slanted	2	rect:1 slanted:1	3.6	0	light	2	1
+b062/p004.jpg	single	1	rect:1	0.0	1	light	1	0
+b062/p013.jpg	slanted	2	slanted:2	2.0	0	light	2	2
+b063/p002.jpg	grid	4	rect:4	0.0	3	light	4	0
+b063/p009.jpg	grid	4	rect:4	0.0	1	light	4	0
+b063/p010.jpg	grid	5	rect:5	0.0	0	light	5	0
+b063/p020.jpg	grid	5	rect:5	0.0	0	light	5	0
+b063/p021.jpg	grid	5	rect:5	0.0	0	light	5	0
+b063/p035.jpg	single	1	rect:1	0.0	1	dark	1	0
+b063/p041.jpg	grid	4	rect:4	0.0	4	light	4	0
+b064/p002.jpg	grid	4	rect:4	0.0	0	light	4	0
+b064/p003.jpg	grid	4	rect:4	0.0	1	light	4	0
+b064/p004.jpg	grid	5	rect:5	0.0	0	light	5	0
+b064/p014.jpg	grid	4	rect:4	0.0	0	light	4	0
+b064/p018.jpg	grid	4	rect:4	0.0	0	light	4	0
+b064/p022.jpg	grid	4	rect:4	0.0	0	light	4	0
+b066/p003.jpg	grid	3	rect:3	0.0	3	dark	3	0
+b067/p010.jpg	grid	5	rect:5	0.0	0	light	5	0
+b068/p000.jpg	single	1	rect:1	0.0	1	dark	1	0
+b068/p013.jpg	touching	3	rect:3	0.0	3	dark	2	0
+b069/p000.jpg	single	1	rect:1	0.0	1	dark	1	0
+b069/p016.jpg	grid	5	rect:5	0.0	4	dark	5	0
+b070/p000.jpg	single	1	rect:1	0.0	1	dark	1	0
+b071/p011.jpg	grid	4	rect:4	0.0	0	light	4	0
+b071/p029.jpg	grid	3	rect:3	0.0	0	light	3	1
+b071/p031.jpg	grid	5	rect:5	0.0	0	light	5	0
+b071/p033.jpg	touching	7	rect:7	0.0	0	light	7	0
+b071/p035.jpg	grid	2	rect:2	0.0	0	light	2	0
+b071/p039.jpg	grid	3	rect:3	0.0	1	light	3	0
+b071/p040.jpg	grid	2	rect:2	0.0	0	light	2	0
+b072/p006.jpg	rounded	1	rounded:1	0.1	1	light	1	0
+b072/p022.jpg	grid	3	rect:3	0.0	0	light	3	0
+b072/p032.jpg	rounded	2	rect:1 rounded:1	0.4	1	light	2	0
+b072/p044.jpg	rounded	1	rounded:1	0.0	1	light	1	0
+b072/p045.jpg	rounded	2	rect:1 rounded:1	0.5	0	light	2	0
+b072/p059.jpg	grid	2	rect:2	0.0	1	light	2	0
+b072/p074.jpg	slanted	3	rect:2 slanted:1	1.5	0	light	3	0
+b072/p083.jpg	touching	3	rect:3	0.0	2	light	3	0
+b072/p098.jpg	rounded	3	rect:2 rounded:1	1.4	0	light	3	0
+b072/p105.jpg	slanted	1	slanted:1	7.2	1	light	1	0
+b072/p122.jpg	single	1	rect:1	0.0	1	light	1	0
+b072/p123.jpg	touching	3	rect:3	0.0	1	light	3	0
+b072/p149.jpg	slanted	4	rect:3 slanted:1	2.2	2	light	4	0
+b072/p153.jpg	slanted	3	rect:2 slanted:1	1.6	2	light	3	2
+b072/p181.jpg	grid	4	rect:4	0.0	2	light	4	0
+b072/p192.jpg	slanted	2	rect:1 slanted:1	4.9	2	light	2	0
+b072/p193.jpg	rounded	1	rounded:1	0.0	1	light	1	0
+b072/p213.jpg	grid	3	rect:3	0.0	0	light	3	0
+b072/p220.jpg	grid	2	rect:2	0.0	2	light	2	0
+b072/p235.jpg	grid	2	rect:2	0.0	2	light	2	0
+b072/p273.jpg	slanted	1	slanted:1	7.3	1	light	1	0
+b073/p002.jpg	grid	5	rect:5	0.0	0	light	5	0
+b073/p004.jpg	grid	5	rect:5	0.0	0	light	5	0
+b073/p005.jpg	notched	5	notched:1 rect:4	0.4	0	light	5	1
+b073/p009.jpg	grid	5	rect:5	0.0	0	light	5	0
+b073/p015.jpg	touching	6	rect:6	0.0	0	light	6	0
+b073/p016.jpg	grid	6	rect:6	0.0	0	light	6	0
+b073/p018.jpg	grid	6	rect:6	0.0	0	light	6	0
+b073/p021.jpg	grid	8	rect:8	0.0	0	light	8	0
+b074/p008.jpg	grid	6	rect:6	0.0	0	light	6	0
+b074/p011.jpg	grid	5	rect:5	0.0	0	light	5	0
+b074/p016.jpg	grid	6	rect:6	0.0	0	light	6	0
+b074/p019.jpg	grid	7	rect:7	0.0	0	light	7	1
+b074/p023.jpg	grid	5	rect:5	0.0	0	light	5	0
+b074/p025.jpg	grid	6	rect:6	0.0	0	light	6	0
+b074/p027.jpg	slanted	1	slanted:1	3.5	1	dark	1	0
+b075/p114.jpg	grid	2	rect:2	0.0	0	light	2	0
+b075/p117.jpg	rounded	2	rect:1 rounded:1	0.3	0	light	2	0
+b075/p118.jpg	slanted	2	rect:1 slanted:1	3.9	0	light	2	0
+b075/p119.jpg	grid	2	rect:2	0.0	0	light	2	0
+b075/p123.jpg	grid	2	rect:2	0.0	0	light	2	0
+b075/p125.jpg	grid	2	rect:2	0.0	0	light	2	0
+b075/p127.jpg	grid	2	rect:2	0.0	0	light	2	0
+b075/p215.jpg	grid	4	rect:4	0.0	4	light	4	0
+b076/p016.jpg	grid	6	rect:6	0.0	0	light	6	0
+b077/p004.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b077/p006.jpg	grid	4	rect:4	0.0	2	light	4	1
+b077/p012.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b077/p013.jpg	grid	5	rect:5	0.0	0	light	5	0
+b077/p016.jpg	grid	6	rect:6	0.0	2	light	6	0
+b077/p020.jpg	grid	6	rect:6	0.0	1	light	6	0
+b077/p022.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b077/p036.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b077/p037.jpg	grid	3	rect:3	0.0	1	light	3	0
+b077/p046.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b077/p054.jpg	grid	7	rect:7	0.0	6	dark	6	0
+b077/p056.jpg	polygon	1	polygon:1	0.3	1	dark	1	0
+b078/p004.jpg	polygon	1	polygon:1	18.4	1	dark	1	0
+b078/p008.jpg	touching	8	rect:8	0.0	2	light	8	0
+b078/p010.jpg	grid	5	rect:5	0.0	0	light	5	0
+b078/p014.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b078/p020.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b078/p030.jpg	polygon	1	polygon:1	20.4	1	dark	1	0
+b078/p032.jpg	grid	6	rect:6	0.0	0	light	6	0
+b078/p037.jpg	grid	6	rect:6	0.0	0	light	6	0
+b078/p040.jpg	grid	4	rect:4	0.0	0	light	4	0
+b078/p042.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b078/p045.jpg	touching	6	rect:6	0.0	0	light	6	0
+b078/p046.jpg	touching	6	rect:6	0.0	2	light	6	0
+b078/p047.jpg	grid	5	rect:5	0.0	2	light	5	0
+b078/p050.jpg	grid	6	rect:6	0.0	0	light	6	0
+b078/p052.jpg	polygon	1	polygon:1	20.3	1	dark	1	0
+b078/p060.jpg	single	1	rect:1	0.0	1	light	1	0
+b079/p004.jpg	polygon	1	polygon:1	20.9	1	dark	1	0
+b079/p005.jpg	grid	6	rect:6	0.0	0	light	6	0
+b079/p008.jpg	grid	6	rect:6	0.0	1	light	6	0
+b079/p011.jpg	grid	7	rect:7	0.0	0	light	7	0
+b079/p016.jpg	grid	8	rect:8	0.0	0	light	8	0
+b079/p018.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b079/p030.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b079/p037.jpg	slanted	8	rect:7 slanted:1	2.1	0	light	8	0
+b079/p038.jpg	touching	7	rect:7	0.0	0	light	7	0
+b079/p040.jpg	polygon	1	polygon:1	16.4	1	dark	1	0
+b079/p045.jpg	grid	6	rect:6	0.0	4	light	6	0
+b079/p048.jpg	grid	5	rect:5	0.0	3	light	5	0
+b079/p050.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b079/p051.jpg	touching	6	rect:6	0.0	2	light	6	0
+b079/p062.jpg	polygon	1	polygon:1	1.9	1	dark	1	1
+b080/p004.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b080/p006.jpg	rounded	5	rect:3 rounded:1 slanted:1	11.7	4	dark	5	0
+b080/p016.jpg	polygon	1	polygon:1	0.1	1	dark	1	0
+b080/p028.jpg	polygon	1	polygon:1	0.0	1	dark	1	1
+b080/p038.jpg	polygon	1	polygon:1	0.3	1	dark	1	0
+b080/p050.jpg	polygon	1	polygon:1	0.0	1	dark	1	1
+b080/p051.jpg	touching	5	rect:5	0.0	0	light	5	0
+b080/p053.jpg	grid	5	rect:5	0.0	0	light	5	0
+b080/p055.jpg	slanted	5	rect:4 slanted:1	7.0	1	light	5	0
+b080/p056.jpg	grid	7	rect:7	0.0	0	light	7	0
+b081/p004.jpg	polygon	1	polygon:1	0.1	1	dark	1	0
+b081/p016.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b081/p017.jpg	grid	5	rect:5	0.0	5	dark	5	0
+b081/p028.jpg	polygon	1	polygon:1	0.1	1	dark	1	0
+b081/p030.jpg	polygon	6	polygon:1 slanted:5	24.1	5	light	6	0
+b081/p032.jpg	polygon	6	polygon:1 rect:4 slanted:1	43.2	3	light	6	0
+b081/p035.jpg	grid	7	rect:7	0.0	1	light	7	0
+b081/p040.jpg	polygon	1	polygon:1	0.0	1	dark	1	1
+b081/p050.jpg	polygon	1	polygon:1	21.5	1	dark	1	0
+b081/p056.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b081/p057.jpg	grid	6	rect:6	0.0	0	light	6	0
+b081/p060.jpg	grid	7	rect:7	0.0	0	light	7	0
+b081/p064.jpg	grid	7	rect:7	0.0	0	light	7	0
+b081/p065.jpg	touching	7	rect:7	0.0	0	light	7	0
+b081/p068.jpg	grid	7	rect:7	0.0	0	light	7	0
+b082/p004.jpg	polygon	1	polygon:1	19.0	1	dark	1	0
+b082/p018.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b082/p022.jpg	notched	6	notched:2 rect:4	0.3	0	light	5	2
+b082/p028.jpg	touching	8	rect:8	0.0	6	light	8	0
+b082/p030.jpg	polygon	1	polygon:1	0.0	1	dark	1	1
+b082/p035.jpg	touching	5	rect:5	0.0	4	light	5	0
+b082/p039.jpg	touching	3	rect:3	0.0	1	light	3	0
+b082/p040.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b082/p042.jpg	rounded	5	rect:4 rounded:1	0.2	1	light	5	0
+b082/p052.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b082/p053.jpg	grid	6	rect:6	0.0	6	light	6	0
+b082/p054.jpg	grid	6	rect:6	0.0	6	light	6	0
+b082/p062.jpg	polygon	1	polygon:1	0.0	1	dark	1	0
+b082/p064.jpg	grid	3	rect:3	0.0	0	light	3	0
+b082/p065.jpg	grid	4	rect:4	0.0	0	light	4	0
+b082/p066.jpg	touching	3	rect:3	0.0	0	light	3	0
+b082/p067.jpg	grid	3	rect:3	0.0	0	light	3	0
+b082/p070.jpg	single	1	rect:1	0.0	0	light	1	2
+b083/p060.jpg	grid	2	rect:2	0.0	0	dark	2	0
+b083/p109.jpg	slanted	1	slanted:1	3.7	0	dark	1	0
+b083/p171.jpg	polygon	1	polygon:1	32.4	1	light	1	0
+b083/p192.jpg	single	1	rect:1	0.0	0	dark	1	0
+b084/p002.jpg	notched	5	notched:1 rect:4	0.5	2	light	5	0
+b084/p011.jpg	slanted	6	slanted:6	7.8	0	light	6	0
+b084/p015.jpg	grid	5	rect:5	0.0	0	light	5	0
+b085/p032.jpg	single	1	rect:1	0.0	1	light	1	0
+b087/p012.jpg	slanted	5	rect:4 slanted:1	1.8	0	light	5	0
+b087/p013.jpg	grid	6	rect:6	0.0	0	light	6	0
+b087/p017.jpg	touching	7	rect:7	0.0	0	light	6	0
+b087/p018.jpg	grid	3	rect:3	0.0	1	light	3	0
+b087/p019.jpg	grid	5	rect:5	0.0	0	light	5	0
+b087/p025.jpg	grid	5	rect:5	0.0	0	light	5	1
+b087/p029.jpg	slanted	4	rect:3 slanted:1	5.2	0	light	4	0
+b087/p032.jpg	grid	4	rect:4	0.0	0	light	4	0
+b087/p035.jpg	touching	2	rect:2	0.0	2	light	2	0
+b089/p012.jpg	slanted	5	rect:4 slanted:1	1.8	0	light	5	0
+b089/p013.jpg	grid	6	rect:6	0.0	0	light	6	0
+b089/p017.jpg	touching	7	rect:7	0.0	0	light	6	0
+b089/p019.jpg	grid	5	rect:5	0.0	0	light	5	1
+b089/p025.jpg	grid	5	rect:5	0.0	0	light	5	1
+b089/p029.jpg	slanted	4	rect:3 slanted:1	5.2	0	light	4	0
+b089/p032.jpg	grid	4	rect:4	0.0	0	light	4	0
+b091/p004.jpg	notched	4	notched:1 rect:2 slanted:1	3.1	0	light	4	0
+b091/p005.jpg	grid	4	rect:4	0.0	0	light	4	0
+b091/p008.jpg	grid	5	rect:5	0.0	0	light	5	0
+b091/p018.jpg	grid	5	rect:5	0.0	1	light	5	0
+b091/p020.jpg	grid	5	rect:5	0.0	0	light	5	0
+b091/p026.jpg	grid	5	rect:5	0.0	0	light	5	0
+b091/p027.jpg	touching	10	rect:10	0.0	0	light	10	0
+b091/p028.jpg	slanted	5	rect:4 slanted:1	4.1	0	light	5	0
+b091/p031.jpg	grid	5	rect:5	0.0	0	light	5	0
+b094/p004.jpg	notched	4	notched:1 rect:2 slanted:1	3.1	0	light	4	0
+b094/p005.jpg	grid	4	rect:4	0.0	0	light	4	0
+b094/p006.jpg	slanted	4	rect:3 slanted:1	2.5	1	light	4	0
+b094/p017.jpg	grid	6	rect:6	0.0	0	light	6	0
+b094/p018.jpg	grid	5	rect:5	0.0	0	light	5	0
+b094/p022.jpg	grid	4	rect:4	0.0	0	light	4	0
+b094/p026.jpg	grid	5	rect:5	0.0	0	light	5	0
+b094/p027.jpg	touching	10	rect:10	0.0	0	light	10	1
+b094/p028.jpg	slanted	5	rect:4 slanted:1	4.2	0	light	5	1
+b094/p031.jpg	grid	5	rect:5	0.0	0	light	5	0
+b096/p003.jpg	grid	4	rect:4	0.0	0	light	4	0
+b096/p011.jpg	grid	5	rect:5	0.0	0	light	5	0
+b096/p015.jpg	grid	4	rect:4	0.0	0	light	4	1
+b096/p017.jpg	grid	4	rect:4	0.0	1	light	4	0
+b098/p003.jpg	grid	4	rect:4	0.0	1	light	4	0
+b098/p011.jpg	grid	5	rect:5	0.0	0	light	5	0
+b098/p015.jpg	grid	4	rect:4	0.0	0	light	4	0
+b098/p017.jpg	grid	4	rect:4	0.0	1	light	4	0
+b098/p032.jpg	grid	5	rect:5	0.0	0	light	5	0
+b100/p006.jpg	grid	4	rect:4	0.0	1	light	4	0
+b100/p010.jpg	touching	5	rect:5	0.0	1	light	5	0
+b100/p019.jpg	grid	4	rect:4	0.0	0	light	4	0
+b100/p023.jpg	touching	7	rect:7	0.0	2	light	7	0
+b100/p042.jpg	grid	5	rect:5	0.0	0	light	5	0
+b100/p053.jpg	notched	7	notched:1 rect:6	0.2	2	light	7	0
+b100/p057.jpg	touching	6	rect:6	0.0	6	light	6	0
+b100/p090.jpg	grid	6	rect:6	0.0	0	light	6	0
+b100/p098.jpg	touching	8	rect:8	0.0	0	light	8	0
+b100/p114.jpg	slanted	5	rect:4 slanted:1	3.1	1	light	5	0
+b100/p118.jpg	grid	4	rect:4	0.0	0	light	4	0
+b100/p131.jpg	slanted	6	rect:5 slanted:1	1.7	2	light	6	0
+b100/p132.jpg	grid	3	rect:3	0.0	1	light	3	0
+b101/p005.jpg	grid	3	rect:3	0.0	0	light	3	0
+b101/p008.jpg	touching	3	rect:3	0.0	0	light	3	0
+b101/p012.jpg	touching	3	rect:3	0.0	0	light	3	0
+b101/p015.jpg	single	1	rect:1	0.0	0	light	1	0
+b101/p019.jpg	touching	3	rect:3	0.0	0	light	3	0
+b101/p025.jpg	grid	3	rect:3	0.0	0	light	3	0
+b101/p046.jpg	touching	2	rect:2	0.0	0	light	2	0
+b101/p061.jpg	grid	2	rect:2	0.0	1	light	2	0
+b101/p072.jpg	grid	2	rect:2	0.0	2	light	2	0
+b101/p078.jpg	slanted	2	slanted:2	2.1	2	light	2	0
+b101/p088.jpg	polygon	3	polygon:1 rect:2	10.3	1	light	3	0
+b101/p095.jpg	grid	3	rect:3	0.0	1	light	3	0
+b101/p163.jpg	grid	9	rect:9	0.0	1	light	9	0
+b102/p005.jpg	grid	2	rect:2	0.0	0	light	2	0
+b102/p007.jpg	single	1	rect:1	0.0	0	light	1	0
+b102/p013.jpg	slanted	2	rect:1 slanted:1	1.8	0	light	2	0
+b102/p020.jpg	touching	2	rect:2	0.0	0	light	2	0
+b102/p022.jpg	grid	2	rect:2	0.0	0	light	2	0
+b102/p033.jpg	slanted	2	slanted:2	12.9	0	light	2	0
+b102/p034.jpg	touching	3	rect:3	0.0	0	light	3	0
+b102/p035.jpg	touching	2	rect:2	0.0	0	light	2	0
+b102/p045.jpg	touching	2	rect:2	0.0	0	light	2	0
+b102/p058.jpg	grid	2	rect:2	0.0	0	light	2	0
+b102/p075.jpg	slanted	2	slanted:2	12.1	0	light	2	0
+b102/p084.jpg	grid	2	rect:2	0.0	0	light	2	0
+b102/p100.jpg	grid	2	rect:2	0.0	0	light	2	0
+b102/p126.jpg	grid	2	rect:2	0.0	0	light	2	0
+b103/p005.jpg	grid	2	rect:2	0.0	0	light	2	0
+b103/p008.jpg	single	1	rect:1	0.0	0	light	1	0
+b103/p022.jpg	rounded	2	rect:1 rounded:1	27.0	0	light	2	0
+b103/p033.jpg	rounded	3	rect:2 rounded:1	21.0	0	light	3	0
+b103/p036.jpg	grid	3	rect:3	0.0	0	light	3	0
+b103/p051.jpg	touching	3	rect:3	0.0	0	light	3	0
+b103/p052.jpg	grid	2	rect:2	0.0	0	light	2	1
+b103/p082.jpg	grid	2	rect:2	0.0	0	light	2	0
+b103/p107.jpg	grid	2	rect:2	0.0	0	light	2	0
+b103/p128.jpg	slanted	2	slanted:2	10.8	0	light	2	0
+b103/p135.jpg	grid	2	rect:2	0.0	0	light	2	0
+b104/p016.jpg	grid	5	rect:5	0.0	0	light	5	0
+b104/p020.jpg	grid	6	rect:6	0.0	1	light	6	0
+b104/p025.jpg	grid	6	rect:6	0.0	0	light	6	0
+b104/p030.jpg	grid	5	rect:5	0.0	0	light	5	0
+b104/p031.jpg	grid	5	rect:5	0.0	0	light	5	0
+b105/p004.jpg	grid	5	rect:5	0.0	0	light	5	0
+b105/p009.jpg	grid	5	rect:5	0.0	0	light	5	0
+b105/p015.jpg	grid	5	rect:5	0.0	0	light	5	0
+b105/p018.jpg	grid	6	rect:6	0.0	0	light	6	0
+b105/p025.jpg	grid	6	rect:6	0.0	0	light	6	0
+b105/p033.jpg	grid	5	rect:5	0.0	0	light	5	0
+b106/p005.jpg	grid	6	rect:6	0.0	0	light	6	0
+b106/p007.jpg	touching	9	rect:9	0.0	0	light	8	0
+b106/p017.jpg	grid	4	rect:4	0.0	0	light	4	0
+b106/p027.jpg	single	1	rect:1	0.0	0	light	1	0
+b106/p040.jpg	slanted	1	slanted:1	3.3	1	light	1	0
+b106/p047.jpg	grid	5	rect:5	0.0	0	light	5	0
+b106/p052.jpg	touching	9	rect:9	0.0	0	light	9	0
+b106/p055.jpg	grid	7	rect:7	0.0	0	light	7	0
+b106/p059.jpg	grid	4	rect:4	0.0	0	light	4	0
+b106/p068.jpg	grid	6	rect:6	0.0	0	light	6	0
+b107/p003.jpg	grid	5	rect:5	0.0	0	light	5	0
+b107/p007.jpg	touching	6	rect:6	0.0	0	light	5	0
+b107/p009.jpg	grid	7	rect:7	0.0	0	light	7	0
+b107/p017.jpg	grid	5	rect:5	0.0	0	light	5	0
+b107/p048.jpg	slanted	6	rect:5 slanted:1	2.2	0	light	6	0
+b107/p050.jpg	grid	5	rect:5	0.0	0	light	5	0
+b107/p051.jpg	touching	8	rect:8	0.0	0	light	7	0
+b107/p053.jpg	touching	7	rect:7	0.0	1	light	5	0
+b107/p058.jpg	grid	6	rect:6	0.0	0	light	6	0
+b107/p068.jpg	slanted	4	rect:2 slanted:2	10.5	0	light	4	0
+b107/p069.jpg	grid	6	rect:6	0.0	0	light	6	0
+b108/p005.jpg	single	1	rect:1	0.0	0	light	1	0
+b108/p009.jpg	grid	2	rect:2	0.0	1	light	2	0
+b108/p052.jpg	grid	3	rect:3	0.0	0	light	3	0
+b108/p070.jpg	grid	3	rect:3	0.0	0	light	3	0
+b108/p100.jpg	grid	3	rect:3	0.0	0	light	3	1
+b108/p106.jpg	grid	3	rect:3	0.0	0	light	3	0
+b108/p120.jpg	touching	2	rect:2	0.0	0	light	2	0
+b108/p130.jpg	grid	2	rect:2	0.0	0	light	2	0
+b110/p007.jpg	grid	4	rect:4	0.0	0	light	4	0
+b110/p026.jpg	notched	6	notched:1 rect:5	0.2	0	light	6	0
+b110/p033.jpg	grid	5	rect:5	0.0	1	light	5	0
+b110/p055.jpg	slanted	4	rect:3 slanted:1	3.0	1	light	4	0
+b110/p064.jpg	grid	6	rect:6	0.0	0	light	6	0
+b110/p076.jpg	touching	3	rect:3	0.0	2	light	3	0
+b110/p081.jpg	slanted	5	rect:4 slanted:1	3.3	0	light	5	0
+b110/p089.jpg	touching	7	rect:7	0.0	0	light	7	0
+b110/p090.jpg	touching	6	rect:6	0.0	0	light	6	0
+b110/p092.jpg	grid	5	rect:5	0.0	0	light	5	0
+b110/p102.jpg	single	1	rect:1	0.0	1	light	1	0
+b110/p110.jpg	touching	3	rect:3	0.0	0	light	3	0
+b110/p117.jpg	grid	5	rect:5	0.0	0	light	5	0
+b110/p121.jpg	touching	7	rect:7	0.0	0	light	7	0
+b110/p130.jpg	touching	2	rect:2	0.0	2	light	2	0
+b110/p158.jpg	grid	3	rect:3	0.0	3	light	3	0
+b110/p160.jpg	touching	3	rect:3	0.0	3	light	3	0
+b111/p008.jpg	grid	7	rect:7	0.0	0	light	7	0
+b111/p010.jpg	grid	4	rect:4	0.0	3	dark	4	0
+b111/p020.jpg	grid	6	rect:6	0.0	4	dark	6	0
+b111/p022.jpg	slanted	7	rect:4 slanted:3	11.9	4	dark	7	0
+b111/p102.jpg	grid	5	rect:5	0.0	0	light	5	1
+b111/p104.jpg	grid	6	rect:6	0.0	0	light	6	0
+b111/p112.jpg	touching	8	rect:8	0.0	6	dark	7	0
+b111/p115.jpg	grid	6	rect:6	0.0	3	dark	6	0
+b112/p005.jpg	grid	6	rect:6	0.0	0	light	6	1
+b113/p005.jpg	single	1	rect:1	0.0	1	light	1	0
+b113/p007.jpg	grid	2	rect:2	0.0	0	light	2	0
+b113/p012.jpg	slanted	5	slanted:5	2.2	0	light	5	0
+b113/p015.jpg	slanted	5	rect:4 slanted:1	2.2	0	light	5	0
+b113/p016.jpg	notched	3	notched:1 rect:2	3.3	0	light	3	0
+b113/p017.jpg	slanted	4	rect:3 slanted:1	3.4	0	light	4	0
+b113/p086.jpg	notched	4	notched:1 rect:3	0.0	0	light	4	0
+b113/p091.jpg	slanted	4	slanted:4	3.7	0	light	4	0
+b113/p092.jpg	slanted	5	rect:3 slanted:2	4.5	0	light	5	0
+b113/p1001.jpg	touching	3	rect:3	0.0	2	light	3	0
+b113/p1002.jpg	touching	3	rect:3	0.0	2	light	3	0
+b113/p1003.jpg	touching	3	rect:3	0.0	2	light	3	0
+b113/p1005.jpg	touching	3	rect:3	0.0	2	light	3	0
+b113/p1006.jpg	touching	3	rect:3	0.0	3	light	3	0
+b113/p107.jpg	slanted	1	slanted:1	3.1	1	light	1	0
+b113/p108.jpg	touching	4	rect:4	0.0	0	light	4	0
+b113/p114.jpg	touching	6	rect:6	0.0	0	light	6	1
+b113/p130.jpg	slanted	3	slanted:3	2.2	0	light	3	0
+b113/p131.jpg	slanted	3	slanted:3	3.9	0	light	3	0
+b113/p167.jpg	slanted	4	slanted:4	6.4	0	light	4	0
+b113/p175.jpg	slanted	3	rect:2 slanted:1	2.1	0	light	3	0
+b113/p190.jpg	grid	4	rect:4	0.0	1	light	4	0
+b113/p197.jpg	slanted	5	rect:4 slanted:1	7.7	1	light	5	0
+b113/p221.jpg	slanted	5	rect:4 slanted:1	5.7	0	light	5	0
+b113/p226.jpg	touching	5	rect:5	0.0	0	light	5	0
+b113/p255.jpg	notched	5	notched:1 rect:4	4.4	1	light	5	0
+b113/p256.jpg	touching	6	rect:6	0.0	0	light	6	0
+b113/p286.jpg	rounded	5	rect:4 rounded:1	0.0	1	light	5	0
+b113/p324.jpg	touching	5	rect:5	0.0	1	light	5	0
+b113/p330.jpg	slanted	4	rect:2 slanted:2	6.9	0	light	4	0
+b113/p331.jpg	slanted	1	slanted:1	3.5	1	light	1	1
+b113/p335.jpg	slanted	4	rect:3 slanted:1	3.4	0	light	4	0
+b113/p372.jpg	grid	4	rect:4	0.0	0	light	4	0
+b113/p391.jpg	touching	6	rect:6	0.0	0	light	6	0
+b113/p404.jpg	slanted	5	rect:3 slanted:2	2.9	0	light	5	0
+b113/p450.jpg	slanted	4	rect:1 slanted:3	2.4	0	light	4	0
+b113/p451.jpg	touching	5	rect:5	0.0	1	light	5	0
+b113/p492.jpg	touching	3	rect:3	0.0	2	light	2	5
+b113/p493.jpg	touching	3	rect:3	0.0	2	light	3	0
+b113/p494.jpg	touching	3	rect:3	0.0	2	light	3	1
+b113/p496.jpg	touching	3	rect:3	0.0	2	light	3	0
+b113/p497.jpg	touching	3	rect:3	0.0	3	light	3	0
+b113/p521.jpg	slanted	5	slanted:5	2.2	0	light	5	0
+b113/p524.jpg	slanted	5	rect:4 slanted:1	2.2	0	light	5	0
+b113/p525.jpg	notched	3	notched:1 rect:2	3.3	0	light	3	0
+b113/p526.jpg	slanted	4	rect:3 slanted:1	3.4	0	light	4	0
+b113/p595.jpg	notched	4	notched:1 rect:3	0.0	0	light	4	0
+b113/p600.jpg	slanted	4	slanted:4	3.7	0	light	4	0
+b113/p601.jpg	slanted	5	rect:3 slanted:2	4.5	0	light	5	0
+b113/p616.jpg	slanted	1	slanted:1	3.1	1	light	1	2
+b113/p617.jpg	touching	4	rect:4	0.0	0	light	4	0
+b113/p621.jpg	grid	5	rect:5	0.0	0	light	5	0
+b113/p623.jpg	touching	6	rect:6	0.0	0	light	6	0
+b113/p639.jpg	slanted	3	slanted:3	2.2	0	light	3	0
+b113/p640.jpg	slanted	3	slanted:3	3.9	0	light	3	0
+b113/p676.jpg	slanted	4	slanted:4	6.4	0	light	4	0
+b113/p684.jpg	slanted	3	rect:2 slanted:1	2.1	0	light	3	0
+b113/p706.jpg	slanted	5	rect:4 slanted:1	7.7	1	light	5	0
+b113/p730.jpg	slanted	5	rect:4 slanted:1	5.7	0	light	5	1
+b113/p735.jpg	touching	5	rect:5	0.0	0	light	5	0
+b113/p764.jpg	notched	5	notched:1 rect:4	4.4	1	light	5	0
+b113/p765.jpg	touching	6	rect:6	0.0	0	light	5	0
+b113/p789.jpg	grid	5	rect:5	0.0	0	light	5	0
+b113/p795.jpg	rounded	5	rect:4 rounded:1	0.0	1	light	5	0
+b113/p833.jpg	touching	5	rect:5	0.0	1	light	5	0
+b113/p839.jpg	slanted	4	rect:2 slanted:2	6.9	0	light	4	0
+b113/p840.jpg	slanted	1	slanted:1	3.5	1	light	1	0
+b113/p844.jpg	slanted	4	rect:3 slanted:1	3.4	0	light	4	0
+b113/p900.jpg	touching	6	rect:6	0.0	0	light	6	0
+b113/p913.jpg	slanted	5	rect:3 slanted:2	2.9	0	light	5	0
+b113/p959.jpg	slanted	4	rect:1 slanted:3	2.4	0	light	4	0
+b113/p960.jpg	touching	5	rect:5	0.0	1	light	5	0
+b113/p965.jpg	grid	5	rect:5	0.0	1	light	5	0
+b114/p049.jpg	touching	8	rect:8	0.0	7	light	8	0
+b114/p067.jpg	grid	2	rect:2	0.0	2	light	2	0
+b114/p073.jpg	grid	3	rect:3	0.0	1	light	3	0
+b114/p085.jpg	notched	1	notched:1	0.3	1	light	1	0
+b114/p086.jpg	notched	4	notched:1 polygon:1 slanted:2	27.9	1	light	4	0
+b114/p108.jpg	grid	2	rect:2	0.0	2	light	2	0
+b114/p109.jpg	grid	4	rect:4	0.0	2	light	4	0
+b114/p127.jpg	polygon	3	polygon:1 slanted:2	44.8	3	dark	2	0
+b116/p000.jpg	single	1	rect:1	0.0	1	light	1	0
+b116/p014.jpg	grid	5	rect:5	0.0	0	light	5	0
+b116/p035.jpg	grid	6	rect:6	0.0	2	light	6	0
+b117/p003.jpg	single	1	rect:1	0.0	0	light	1	0
+b117/p004.jpg	grid	3	rect:3	0.0	0	light	3	0
+b117/p007.jpg	touching	3	rect:3	0.0	0	light	3	0
+b117/p021.jpg	grid	3	rect:3	0.0	0	light	3	0
+b117/p048.jpg	grid	2	rect:2	0.0	0	light	2	0
+b117/p066.jpg	grid	3	rect:3	0.0	0	light	3	0
+b117/p067.jpg	notched	3	notched:1 rect:2	0.7	0	light	3	0
+b117/p083.jpg	grid	2	rect:2	0.0	0	light	2	0
+b117/p100.jpg	grid	2	rect:2	0.0	0	light	2	0
+b117/p101.jpg	touching	4	rect:4	0.0	0	light	4	0
+b118/p002.jpg	slanted	3	rect:1 slanted:2	5.3	1	light	3	0
+b118/p007.jpg	grid	9	rect:9	0.0	0	light	9	0
+b118/p010.jpg	touching	2	rect:2	0.0	2	light	2	0
+b118/p013.jpg	grid	6	rect:6	0.0	5	light	6	0
+b118/p017.jpg	touching	6	rect:6	0.0	0	light	6	0
+b118/p019.jpg	grid	6	rect:6	0.0	0	light	6	0
+b118/p022.jpg	grid	4	rect:4	0.0	1	light	4	0
+b118/p025.jpg	rounded	1	rounded:1	0.8	1	dark	1	0
+b119/p014.jpg	slanted	5	slanted:5	9.3	0	light	5	0
+b119/p019.jpg	notched	5	notched:1 slanted:4	13.2	0	light	5	0
+b120/p004.jpg	rounded	4	rect:3 rounded:1	0.3	0	light	4	0
+b120/p008.jpg	grid	4	rect:4	0.0	0	light	4	0
+b120/p009.jpg	grid	4	rect:4	0.0	0	light	4	0
+b120/p011.jpg	grid	5	rect:5	0.0	1	light	5	0
+b120/p012.jpg	grid	5	rect:5	0.0	1	light	5	0
+b120/p013.jpg	touching	8	rect:8	0.0	1	light	8	0
+b120/p018.jpg	grid	2	rect:2	0.0	1	light	2	1
+b120/p019.jpg	touching	6	rect:6	0.0	0	light	6	0
+b120/p020.jpg	grid	6	rect:6	0.0	0	light	6	0
+b120/p022.jpg	touching	2	rect:2	0.0	2	light	2	0
+b122/p005.jpg	grid	3	rect:3	0.0	1	dark	3	0
+b122/p014.jpg	single	1	rect:1	0.0	0	dark	1	0
+b122/p015.jpg	grid	4	rect:4	0.0	1	dark	4	0
+b122/p022.jpg	grid	2	rect:2	0.0	2	dark	2	0
+b123/p001.jpg	grid	5	rect:5	0.0	0	light	5	0
+b123/p004.jpg	grid	3	rect:3	0.0	0	light	3	0
+b123/p009.jpg	single	1	rect:1	0.0	0	light	1	0
+b123/p010.jpg	grid	6	rect:6	0.0	0	light	6	0
+b123/p015.jpg	grid	5	rect:5	0.0	1	light	5	0
+b123/p019.jpg	grid	5	rect:5	0.0	0	light	5	0
+b123/p022.jpg	grid	5	rect:5	0.0	2	light	5	0
+b124/p001.jpg	slanted	3	rect:2 slanted:1	1.6	3	light	3	0
+b124/p003.jpg	grid	6	rect:6	0.0	2	light	6	2
+b124/p004.jpg	single	1	rect:1	0.0	1	light	1	0
+b124/p010.jpg	grid	6	rect:6	0.0	1	light	6	0
+b124/p013.jpg	grid	7	rect:7	0.0	2	light	7	0
+b124/p021.jpg	grid	6	rect:6	0.0	1	light	6	0
+b124/p024.jpg	grid	7	rect:7	0.0	0	light	7	0
+b124/p027.jpg	grid	6	rect:6	0.0	0	light	6	0
+b125/p007.jpg	grid	6	rect:6	0.0	0	light	6	0
+b125/p011.jpg	grid	5	rect:5	0.0	1	light	5	0
+b125/p012.jpg	grid	4	rect:4	0.0	2	light	4	0
+b125/p016.jpg	grid	7	rect:7	0.0	0	light	7	0
+b125/p020.jpg	grid	6	rect:6	0.0	1	light	6	0
+b125/p022.jpg	touching	2	rect:2	0.0	2	light	2	0
+b125/p032.jpg	grid	9	rect:9	0.0	1	light	9	0
+b126/p016.jpg	single	1	rect:1	0.0	1	dark	1	0
+b126/p019.jpg	touching	2	rect:2	0.0	2	dark	2	0
+b126/p020.jpg	touching	2	rect:2	0.0	1	dark	2	1
+b127/p012.jpg	grid	9	rect:9	0.0	0	light	9	0
+b127/p014.jpg	grid	5	rect:5	0.0	0	light	5	0
+b127/p015.jpg	grid	6	rect:6	0.0	0	light	6	0
+b127/p018.jpg	grid	4	rect:4	0.0	1	light	4	0
+b127/p022.jpg	touching	6	rect:6	0.0	1	light	6	0
+b127/p023.jpg	grid	5	rect:5	0.0	1	light	5	0
+b127/p024.jpg	grid	4	rect:4	0.0	0	light	4	0
+b128/p005.jpg	touching	4	rect:4	0.0	3	light	4	0
+b128/p015.jpg	grid	3	rect:3	0.0	1	light	3	0
+b129/p006.jpg	notched	4	notched:1 rect:3	0.1	0	light	4	1
+b129/p011.jpg	grid	5	rect:5	0.0	1	light	5	0
+b129/p012.jpg	single	1	rect:1	0.0	1	light	1	0
+b129/p023.jpg	touching	6	rect:6	0.0	5	light	5	0
+b129/p037.jpg	touching	5	rect:5	0.0	1	light	5	0
+b129/p039.jpg	round	6	notched:1 rect:1 round:2 rounded:1 slanted:1	30.3	1	light	6	0
+b129/p040.jpg	slanted	3	slanted:3	22.2	1	light	3	0
+b129/p041.jpg	grid	4	rect:4	0.0	1	light	4	0
+b129/p042.jpg	slanted	5	rect:2 slanted:3	16.4	1	light	5	0
+b129/p056.jpg	notched	5	notched:1 rect:3 slanted:1	42.9	1	light	5	0
+b129/p058.jpg	slanted	3	rect:1 slanted:2	12.3	1	light	3	0
+b129/p070.jpg	slanted	4	rect:1 slanted:3	11.5	3	light	4	0
+b129/p073.jpg	notched	3	notched:1 rect:1 slanted:1	33.1	1	light	3	0
+b129/p074.jpg	rounded	3	notched:1 polygon:1 rounded:1	31.9	2	light	3	0
+b129/p078.jpg	slanted	2	slanted:2	9.0	0	light	2	0
+b129/p084.jpg	grid	4	rect:4	0.0	3	light	4	0
+b129/p088.jpg	slanted	6	rect:4 slanted:2	14.3	1	light	6	0
+b129/p089.jpg	notched	5	notched:1 polygon:1 rect:1 slanted:2	39.9	5	light	5	0
+b129/p114.jpg	notched	6	notched:1 rect:5	0.9	0	light	6	0
+b129/p126.jpg	slanted	2	slanted:2	6.5	0	light	2	0
+b129/p133.jpg	grid	7	rect:7	0.0	0	light	7	2
+b129/p141.jpg	notched	7	notched:1 rect:6	0.1	0	light	7	0
+b129/p150.jpg	slanted	4	slanted:4	6.5	0	light	4	1
+b129/p151.jpg	notched	8	notched:1 rect:7	0.3	0	light	8	0
+b129/p152.jpg	slanted	9	rect:5 slanted:4	4.5	1	light	9	1
+b129/p163.jpg	slanted	4	slanted:4	13.5	0	light	4	0
+b129/p166.jpg	slanted	3	rect:1 slanted:2	4.3	2	light	3	0
+b129/p171.jpg	grid	5	rect:5	0.0	0	light	5	0
+b129/p176.jpg	slanted	4	rect:2 slanted:2	4.6	0	light	4	0
+b129/p178.jpg	notched	7	notched:1 rect:1 slanted:5	4.7	1	light	7	0
+b129/p193.jpg	slanted	3	rect:1 slanted:2	12.0	2	light	3	0
+b129/p209.jpg	notched	3	notched:1 slanted:2	22.3	2	light	3	0
+b129/p226.jpg	grid	2	rect:2	0.0	2	light	2	0
+b129/p253.jpg	polygon	1	polygon:1	38.6	1	dark	1	0
+b129/p255.jpg	rounded	1	rounded:1	0.2	1	dark	1	0
+b130/p001.jpg	slanted	1	slanted:1	4.0	1	dark	1	0
+b130/p003.jpg	grid	6	rect:6	0.0	3	light	6	0
+b130/p004.jpg	notched	3	notched:1 slanted:2	22.2	2	light	3	1
+b130/p007.jpg	grid	4	rect:4	0.0	2	light	4	1
+b130/p014.jpg	grid	4	rect:4	0.0	3	light	4	0
+b130/p017.jpg	grid	4	rect:4	0.0	4	light	4	0
+b130/p020.jpg	grid	2	rect:2	0.0	1	light	2	0
+b130/p021.jpg	grid	2	rect:2	0.0	1	light	2	0
+b130/p023.jpg	single	1	rect:1	0.0	1	light	1	0
+b131/p005.jpg	grid	4	rect:4	0.0	0	light	4	0
+b131/p007.jpg	grid	4	rect:4	0.0	0	light	4	0
+b131/p009.jpg	grid	5	rect:5	0.0	0	light	5	0
+b131/p011.jpg	grid	4	rect:4	0.0	0	light	4	0
+b131/p013.jpg	slanted	5	slanted:5	7.7	0	light	5	0
+b131/p014.jpg	grid	2	rect:2	0.0	1	light	2	0
+b131/p015.jpg	grid	5	rect:5	0.0	0	light	5	0
+b131/p016.jpg	slanted	2	rect:1 slanted:1	3.6	1	dark	2	0
+b131/p027.jpg	touching	6	rect:6	0.0	0	light	6	0
+b132/p018.jpg	grid	5	rect:5	0.0	0	light	5	0
+b133/p006.jpg	grid	3	rect:3	0.0	0	light	3	0
+b133/p007.jpg	grid	3	rect:3	0.0	1	light	3	0
+b133/p008.jpg	single	1	rect:1	0.0	1	light	1	0
+b133/p010.jpg	touching	4	rect:4	0.0	2	light	4	0
+b133/p011.jpg	touching	4	rect:4	0.0	0	light	4	0
+b133/p013.jpg	grid	3	rect:3	0.0	0	light	3	1
+b133/p093.jpg	slanted	1	slanted:1	4.4	1	dark	1	0
+b133/p103.jpg	grid	4	rect:4	0.0	3	light	4	0
+b133/p104.jpg	touching	5	rect:5	0.0	1	light	5	0
+b133/p105.jpg	notched	5	notched:1 rect:4	0.3	0	light	4	0
+b133/p118.jpg	slanted	5	rect:4 slanted:1	1.5	1	light	5	0
+b133/p119.jpg	grid	4	rect:4	0.0	0	light	4	0
+b133/p120.jpg	grid	4	rect:4	0.0	2	light	4	0
+b134/p001.jpg	single	1	rect:1	0.0	1	light	1	1
+b134/p009.jpg	grid	4	rect:4	0.0	0	light	4	2
+b134/p027.jpg	grid	6	rect:6	0.0	0	light	6	0
+b135/p001.jpg	rounded	1	rounded:1	14.9	1	dark	1	0
+b135/p017.jpg	slanted	5	rect:3 slanted:2	2.5	0	light	5	0
+b135/p019.jpg	slanted	5	rect:2 slanted:3	2.7	4	light	5	0
+b135/p022.jpg	slanted	6	slanted:6	2.4	0	light	6	0
+b135/p023.jpg	slanted	6	rect:4 slanted:2	3.6	0	light	6	0
+b135/p026.jpg	grid	5	rect:5	0.0	0	light	5	0
+b135/p029.jpg	single	1	rect:1	0.0	0	light	1	0
+b137/p010.jpg	grid	6	rect:6	0.0	0	light	6	0
+b137/p011.jpg	touching	8	rect:8	0.0	0	light	8	0
+b137/p013.jpg	rounded	8	rect:7 rounded:1	1.3	1	light	8	0
+b137/p031.jpg	grid	6	rect:6	0.0	0	light	6	0
+b137/p034.jpg	slanted	6	rect:5 slanted:1	3.6	3	light	6	2
+b137/p048.jpg	slanted	6	rect:5 slanted:1	7.0	0	light	6	0
+b137/p058.jpg	slanted	4	rect:3 slanted:1	3.5	0	light	4	0
+b137/p065.jpg	slanted	7	rect:4 slanted:3	4.8	0	light	7	0
+b137/p070.jpg	grid	4	rect:4	0.0	0	light	4	0
+b137/p076.jpg	slanted	5	rect:4 slanted:1	3.2	0	light	5	0
+b137/p110.jpg	touching	8	rect:8	0.0	0	light	8	0
+b137/p115.jpg	grid	7	rect:7	0.0	0	light	7	1
+b137/p146.jpg	touching	7	rect:7	0.0	1	light	7	0
+b137/p148.jpg	rounded	6	rect:5 rounded:1	0.0	3	light	6	1
+b137/p153.jpg	grid	7	rect:7	0.0	0	light	7	0
+b137/p161.jpg	touching	7	rect:7	0.0	1	light	7	0
+b137/p162.jpg	slanted	6	rect:5 slanted:1	6.9	0	light	6	0
+b137/p178.jpg	slanted	1	slanted:1	5.8	1	dark	1	0
+b137/p187.jpg	slanted	4	rect:3 slanted:1	3.6	0	light	4	0
+b137/p194.jpg	slanted	7	rect:4 slanted:3	4.9	0	light	7	0
+b137/p196.jpg	touching	7	rect:7	0.0	2	light	7	0
+b137/p205.jpg	slanted	5	rect:4 slanted:1	3.5	0	light	5	0
+b137/p207.jpg	grid	6	rect:6	0.0	0	light	6	0
+b139/p012.jpg	round	3	polygon:1 round:1 slanted:1	23.0	1	light	2	0
+b139/p016.jpg	slanted	2	rect:1 slanted:1	7.0	1	light	2	0
+b139/p022.jpg	grid	3	rect:3	0.0	1	light	3	0
+b139/p046.jpg	single	1	rect:1	0.0	1	light	1	0
+b139/p063.jpg	rounded	1	rounded:1	0.0	1	light	1	0
+b139/p064.jpg	grid	3	rect:3	0.0	1	light	3	0
+b139/p069.jpg	rounded	1	rounded:1	24.8	1	light	1	0
+b139/p083.jpg	touching	4	rect:4	0.0	2	light	4	0
+b139/p090.jpg	grid	4	rect:4	0.0	0	light	4	0
+b139/p104.jpg	grid	4	rect:4	0.0	0	light	4	0
+b140/p000.jpg	single	1	rect:1	0.0	1	light	1	0
+b140/p122.jpg	rounded	1	rounded:1	5.2	1	dark	1	0
+b141/p002.jpg	grid	4	rect:4	0.0	0	light	4	1
+b141/p014.jpg	touching	9	rect:9	0.0	8	light	9	0
+b142/p010.jpg	grid	5	rect:5	0.0	3	light	5	0
+b142/p012.jpg	grid	5	rect:5	0.0	2	light	5	0
+b142/p014.jpg	grid	5	rect:5	0.0	4	light	5	0
+b142/p016.jpg	grid	5	rect:5	0.0	4	light	5	0
+b142/p020.jpg	grid	5	rect:5	0.0	2	light	5	0
+b142/p021.jpg	grid	5	rect:5	0.0	3	light	5	1
+b143/p004.jpg	grid	5	rect:5	0.0	5	light	5	0
+b143/p007.jpg	grid	4	rect:4	0.0	2	light	4	0
+b143/p011.jpg	grid	5	rect:5	0.0	4	light	5	0
+b143/p016.jpg	grid	5	rect:5	0.0	5	light	5	0
+b143/p020.jpg	grid	9	rect:9	0.0	7	light	9	0
+b143/p022.jpg	grid	6	rect:6	0.0	4	light	6	0
+b145/p012.jpg	grid	4	rect:4	0.0	4	light	4	0
+b145/p015.jpg	grid	5	rect:5	0.0	3	light	5	0
+b145/p016.jpg	grid	5	rect:5	0.0	3	light	5	0
+b145/p019.jpg	grid	5	rect:5	0.0	4	light	5	0
+b145/p020.jpg	grid	5	rect:5	0.0	4	light	5	0
+b145/p022.jpg	grid	5	rect:5	0.0	5	light	5	0
+b146/p004.jpg	grid	4	rect:4	0.0	4	light	4	1
+b146/p006.jpg	grid	5	rect:5	0.0	5	light	5	0
+b146/p010.jpg	grid	5	rect:5	0.0	3	light	5	0
+b146/p011.jpg	grid	6	rect:6	0.0	3	light	6	0
+b146/p020.jpg	grid	5	rect:5	0.0	5	light	5	0
+b146/p023.jpg	grid	5	rect:5	0.0	3	light	5	0
+b148/p026.jpg	touching	2	rect:2	0.0	2	light	2	0
+b148/p033.jpg	slanted	1	slanted:1	1.9	1	light	1	0
+b148/p034.jpg	slanted	1	slanted:1	1.8	1	light	1	0
+b149/p024.jpg	touching	2	rect:2	0.0	2	light	2	0
+b149/p027.jpg	slanted	1	slanted:1	1.9	1	light	1	0
+b150/p024.jpg	touching	2	rect:2	0.0	2	light	2	0
+b151/p013.jpg	grid	4	rect:4	0.0	1	light	4	0
+b151/p020.jpg	single	1	rect:1	0.0	1	light	1	0
+b151/p023.jpg	touching	2	rect:2	0.0	2	light	2	1
+b151/p027.jpg	slanted	1	slanted:1	1.8	1	light	1	0
+b153/p002.jpg	single	1	rect:1	0.0	1	light	1	0
+b153/p113.jpg	notched	3	notched:1 rect:2	0.4	0	light	3	0
+b154/p005.jpg	single	1	rect:1	0.0	0	light	1	0
+b154/p006.jpg	grid	6	rect:6	0.0	0	light	6	0
+b154/p033.jpg	grid	7	rect:7	0.0	0	light	7	0
+b154/p055.jpg	touching	7	rect:7	0.0	3	light	6	0
+b154/p065.jpg	grid	4	rect:4	0.0	0	light	4	0
+b154/p077.jpg	touching	5	rect:5	0.0	0	light	4	0
+b154/p085.jpg	touching	7	rect:7	0.0	1	light	6	0
+b154/p095.jpg	grid	6	rect:6	0.0	4	light	6	0
+b154/p096.jpg	touching	8	rect:8	0.0	2	light	6	0
+b154/p098.jpg	touching	9	rect:9	0.0	1	light	7	0
+b154/p106.jpg	notched	4	notched:1 rect:3	0.6	0	light	4	0
+b154/p109.jpg	slanted	5	rect:4 slanted:1	1.8	0	light	4	2
+b154/p115.jpg	touching	6	rect:6	0.0	1	light	6	0
+b154/p141.jpg	rounded	6	rect:5 rounded:1	1.0	1	light	6	0
+b154/p148.jpg	grid	6	rect:6	0.0	0	light	6	0
+b154/p156.jpg	touching	8	rect:8	0.0	3	light	7	0
+b154/p162.jpg	touching	7	rect:7	0.0	0	light	7	0
+b154/p163.jpg	slanted	1	slanted:1	5.0	1	light	1	0
+b154/p170.jpg	touching	7	rect:7	0.0	0	light	6	0
+b154/p186.jpg	touching	6	rect:6	0.0	2	light	4	0
+b154/p221.jpg	touching	4	rect:4	0.0	1	light	4	0
+b154/p255.jpg	rounded	1	rounded:1	0.6	0	light	1	0
+b154/p277.jpg	touching	6	rect:6	0.0	4	light	6	0
+b154/p291.jpg	grid	7	rect:7	0.0	0	light	7	0
+b155/p090.jpg	single	1	rect:1	0.0	1	dark	1	1
+b156/p032.jpg	touching	2	rect:2	0.0	1	light	2	0
+b157/p027.jpg	grid	2	rect:2	0.0	0	light	2	0
+b157/p061.jpg	grid	5	rect:5	0.0	0	light	5	0
+b157/p079.jpg	grid	4	rect:4	0.0	1	light	4	0
+b157/p089.jpg	grid	5	rect:5	0.0	2	light	4	0
+b157/p165.jpg	grid	2	rect:2	0.0	1	light	2	0
+b157/p170.jpg	grid	3	rect:3	0.0	2	light	3	0
+b157/p176.jpg	single	1	rect:1	0.0	1	dark	1	0
+b158/p033.jpg	touching	6	rect:6	0.0	3	light	6	0
+b158/p062.jpg	grid	5	rect:5	0.0	1	light	5	0
+b158/p093.jpg	grid	4	rect:4	0.0	0	light	4	0
+b158/p098.jpg	single	1	rect:1	0.0	0	dark	1	0
+b159/p018.jpg	grid	3	rect:3	0.0	1	light	3	0
+b159/p030.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b159/p039.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b159/p060.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b159/p086.jpg	slanted	4	rect:3 slanted:1	30.9	4	light	1	0
+b159/p087.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b159/p108.jpg	grid	4	rect:4	0.0	1	dark	4	0
+b159/p120.jpg	notched	1	notched:1	0.1	1	dark	1	0
+b159/p123.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b159/p124.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b159/p127.jpg	notched	1	notched:1	0.0	1	dark	1	0
+b161/p003.jpg	grid	5	rect:5	0.0	1	light	5	0
+b161/p005.jpg	grid	7	rect:7	0.0	0	light	7	0
+b161/p007.jpg	grid	4	rect:4	0.0	0	light	4	0
+b161/p011.jpg	grid	4	rect:4	0.0	1	light	4	0
+b161/p012.jpg	touching	4	rect:4	0.0	2	light	4	0
+b161/p020.jpg	grid	6	rect:6	0.0	0	light	6	0
+b161/p022.jpg	grid	4	rect:4	0.0	0	light	4	0
+b162/p002.jpg	touching	6	rect:6	0.0	1	light	6	0
+b162/p003.jpg	grid	2	rect:2	0.0	1	light	2	0
+b162/p005.jpg	grid	4	rect:4	0.0	0	light	4	0
+b162/p008.jpg	grid	5	rect:5	0.0	2	light	5	0
+b162/p009.jpg	slanted	3	rect:2 slanted:1	1.7	1	light	3	0
+b162/p010.jpg	touching	5	rect:5	0.0	1	light	5	0
+b162/p011.jpg	grid	5	rect:5	0.0	0	light	5	0
+b162/p015.jpg	grid	5	rect:5	0.0	2	light	5	0
+b162/p022.jpg	grid	5	rect:5	0.0	0	light	5	0
+b162/p023.jpg	polygon	4	polygon:1 rect:3	44.7	0	light	4	0
+b163/p002.jpg	notched	4	notched:1 rect:3	0.1	0	light	4	0
+b163/p003.jpg	grid	5	rect:5	0.0	0	light	5	0
+b163/p011.jpg	rounded	5	rect:4 rounded:1	21.9	1	light	5	0
+b163/p012.jpg	touching	4	rect:4	0.0	0	light	4	0
+b163/p014.jpg	grid	5	rect:5	0.0	0	light	5	0
+b163/p015.jpg	grid	4	rect:4	0.0	1	light	4	0
+b163/p019.jpg	grid	5	rect:5	0.0	1	light	5	0
+b163/p022.jpg	grid	4	rect:4	0.0	0	light	4	0
+b164/p006.jpg	touching	5	rect:5	0.0	1	light	5	1
+b164/p007.jpg	grid	5	rect:5	0.0	0	light	5	0
+b165/p003.jpg	single	1	rect:1	0.0	1	light	1	0
+b165/p006.jpg	touching	8	rect:8	0.0	0	light	7	0
+b165/p010.jpg	touching	6	rect:6	0.0	1	light	5	0
+b165/p011.jpg	grid	7	rect:7	0.0	1	light	7	0
+b165/p012.jpg	touching	6	rect:6	0.0	3	light	6	0
+b165/p015.jpg	touching	9	rect:9	0.0	4	light	8	0
+b165/p025.jpg	slanted	6	rect:5 slanted:1	1.5	2	light	6	0
+b165/p039.jpg	slanted	4	rect:3 slanted:1	4.3	1	light	4	0
+b165/p042.jpg	touching	8	rect:8	0.0	2	light	8	0
+b165/p070.jpg	touching	6	rect:6	0.0	0	light	5	0
+b165/p078.jpg	touching	6	rect:6	0.0	1	light	6	0
+b165/p083.jpg	touching	9	rect:9	0.0	4	light	9	0
+b165/p088.jpg	grid	6	rect:6	0.0	2	light	6	0
+b165/p090.jpg	touching	11	rect:11	0.0	3	light	11	1
+b165/p095.jpg	touching	7	rect:7	0.0	4	light	7	0
+b165/p105.jpg	touching	7	rect:7	0.0	4	light	7	0
+b165/p111.jpg	touching	8	rect:8	0.0	5	light	7	0
+b165/p112.jpg	touching	7	rect:7	0.0	1	light	7	0
+b165/p117.jpg	touching	8	rect:8	0.0	1	light	7	0
+b165/p125.jpg	touching	8	rect:8	0.0	1	light	7	0
+b165/p153.jpg	touching	5	rect:5	0.0	4	light	5	0
+b165/p168.jpg	grid	6	rect:6	0.0	0	light	6	0
+b165/p184.jpg	touching	4	rect:4	0.0	3	light	4	1
+b165/p197.jpg	touching	6	rect:6	0.0	3	light	5	0
+b165/p200.jpg	touching	8	rect:8	0.0	6	light	8	0
+b165/p205.jpg	touching	7	rect:7	0.0	3	light	7	0
+b165/p206.jpg	touching	9	rect:9	0.0	9	light	9	0
+b165/p209.jpg	touching	10	rect:10	0.0	4	light	9	0
+b165/p228.jpg	touching	10	rect:10	0.0	4	light	10	0
+b165/p250.jpg	slanted	5	rect:4 slanted:1	5.5	1	light	5	0
+b165/p256.jpg	rounded	6	rect:5 rounded:1	19.4	2	light	4	0
+b165/p268.jpg	grid	3	rect:3	0.0	1	light	2	0
+b165/p272.jpg	notched	4	notched:1 rect:3	0.2	3	light	3	0
+b165/p274.jpg	rounded	5	rect:4 rounded:1	0.5	1	light	4	0
+b165/p288.jpg	touching	3	rect:3	0.0	2	light	2	0
+b165/p292.jpg	touching	3	rect:3	0.0	2	light	2	0
+b165/p294.jpg	touching	5	rect:5	0.0	4	light	2	1
+b165/p318.jpg	touching	5	rect:5	0.0	3	light	3	0
+b165/p331.jpg	touching	17	rect:17	0.0	10	light	4	2
+b165/p380.jpg	grid	2	rect:2	0.0	1	light	0	0
+b165/p482.jpg	grid	3	rect:3	0.0	2	light	1	0
+b166/p007.jpg	grid	2	rect:2	0.0	1	light	2	0
+b172/p085.jpg	grid	4	rect:4	0.0	1	light	4	0
+b172/p107.jpg	notched	6	notched:1 polygon:1 rect:4	16.3	1	dark	5	2
+b172/p123.jpg	slanted	3	rect:2 slanted:1	3.1	1	light	3	1
+b172/p126.jpg	slanted	3	rect:2 slanted:1	4.3	0	light	3	0
+b172/p133.jpg	grid	5	rect:5	0.0	0	light	5	0
+b172/p141.jpg	grid	6	rect:6	0.0	1	light	6	0
+b172/p144.jpg	slanted	3	rect:1 slanted:2	20.4	2	light	2	0
+b172/p150.jpg	grid	3	rect:3	0.0	1	light	3	0
+b172/p152.jpg	grid	6	rect:6	0.0	0	light	6	0
+b172/p157.jpg	grid	5	rect:5	0.0	0	light	5	0
+b173/p025.jpg	grid	4	rect:4	0.0	1	light	4	0
+b173/p032.jpg	grid	4	rect:4	0.0	0	light	4	0
+b173/p041.jpg	touching	7	rect:7	0.0	0	light	6	0
+b173/p044.jpg	grid	5	rect:5	0.0	2	light	5	0
+b173/p080.jpg	notched	5	notched:1 rect:3 slanted:1	4.4	0	light	5	0
+b173/p083.jpg	grid	4	rect:4	0.0	1	light	4	1
+b173/p084.jpg	grid	3	rect:3	0.0	0	light	3	0
+b173/p110.jpg	notched	3	notched:1 rect:1 slanted:1	3.8	1	light	3	1
+b173/p120.jpg	grid	5	rect:5	0.0	5	light	5	0
+b173/p144.jpg	slanted	5	rect:3 slanted:2	3.7	1	dark	5	0
+b174/p032.jpg	grid	5	rect:5	0.0	1	light	5	0
+b174/p043.jpg	grid	5	rect:5	0.0	0	light	5	0
+b174/p047.jpg	grid	6	rect:6	0.0	1	light	6	0
+b174/p051.jpg	grid	6	rect:6	0.0	0	light	6	0
+b174/p052.jpg	single	1	rect:1	0.0	1	light	1	0
+b175/p000.jpg	slanted	1	slanted:1	4.1	0	light	1	0
+b175/p008.jpg	grid	6	rect:6	0.0	0	light	6	0
+b175/p017.jpg	grid	5	rect:5	0.0	0	light	5	0
+b175/p022.jpg	slanted	3	rect:2 slanted:1	2.8	0	light	3	0
+b175/p028.jpg	slanted	6	rect:5 slanted:1	3.6	0	light	6	0
+b175/p029.jpg	slanted	5	rect:4 slanted:1	3.9	0	light	5	0
+b175/p030.jpg	single	1	rect:1	0.0	1	light	1	0
+b175/p031.jpg	slanted	1	slanted:1	2.1	1	light	1	0
+b175/p038.jpg	grid	6	rect:6	0.0	0	light	6	0
+b175/p039.jpg	touching	7	rect:7	0.0	1	light	6	1
+b175/p049.jpg	slanted	4	rect:1 slanted:3	7.0	0	light	4	0
+b175/p056.jpg	notched	5	notched:1 rect:4	0.9	0	light	5	0
+b175/p062.jpg	touching	6	rect:6	0.0	1	light	6	0
+b175/p063.jpg	grid	6	rect:6	0.0	0	light	6	0
+b175/p125.jpg	slanted	1	slanted:1	1.8	0	light	1	0
+b175/p145.jpg	slanted	1	slanted:1	1.8	0	light	1	0
+b175/p156.jpg	slanted	6	rect:4 slanted:2	15.0	0	light	6	0
+b175/p158.jpg	grid	6	rect:6	0.0	0	light	6	0
+b175/p159.jpg	slanted	6	rect:2 slanted:4	8.6	0	light	6	0
+b175/p180.jpg	touching	4	rect:4	0.0	3	light	4	0
+b175/p214.jpg	slanted	5	rect:3 slanted:2	10.9	0	light	5	0
+b175/p217.jpg	grid	5	rect:5	0.0	0	light	5	0
+b175/p228.jpg	touching	5	rect:5	0.0	0	light	5	0
+b176/p014.jpg	grid	5	rect:5	0.0	0	light	5	0
+b176/p021.jpg	single	1	rect:1	0.0	1	light	1	0
+b176/p025.jpg	slanted	3	slanted:3	3.3	0	light	3	0
+b176/p033.jpg	grid	11	rect:11	0.0	0	light	11	0
+b176/p044.jpg	slanted	3	rect:2 slanted:1	2.2	1	light	3	2
+b176/p065.jpg	grid	6	rect:6	0.0	0	light	6	0
+b176/p072.jpg	slanted	7	rect:6 slanted:1	2.8	1	light	7	0
+b176/p082.jpg	grid	2	rect:2	0.0	1	light	2	1
+b176/p089.jpg	slanted	3	rect:2 slanted:1	2.5	1	light	3	0
+b176/p094.jpg	grid	5	rect:5	0.0	0	light	5	0
+b176/p096.jpg	slanted	5	rect:4 slanted:1	2.3	0	light	5	0
+b176/p109.jpg	slanted	6	slanted:6	7.8	0	light	6	0
+b176/p118.jpg	grid	3	rect:3	0.0	1	light	3	0
+b178/p021.jpg	grid	3	rect:3	0.0	3	light	3	0
+b178/p037.jpg	grid	3	rect:3	0.0	3	light	3	0
+b178/p043.jpg	touching	8	rect:8	0.0	8	light	8	2
+b178/p046.jpg	touching	5	rect:5	0.0	5	light	5	0
+b178/p047.jpg	grid	2	rect:2	0.0	2	light	2	0
+b178/p050.jpg	grid	3	rect:3	0.0	3	light	3	0
+b178/p056.jpg	grid	4	rect:4	0.0	4	light	4	0
+b178/p059.jpg	rounded	1	rounded:1	7.9	1	dark	1	0
+b178/p060.jpg	rounded	1	rounded:1	13.2	1	dark	1	0
+b178/p066.jpg	grid	3	rect:3	0.0	3	light	3	0
+b178/p067.jpg	notched	4	notched:1 rect:2 slanted:1	12.6	3	light	3	0
+b179/p016.jpg	single	1	rect:1	0.0	1	light	1	0
+b179/p020.jpg	grid	2	rect:2	0.0	1	light	2	0
+b179/p022.jpg	rounded	1	rounded:1	39.0	1	light	1	0
+b179/p071.jpg	touching	8	rect:8	0.0	0	light	8	0
+b179/p095.jpg	grid	6	rect:6	0.0	0	light	6	0
+b179/p123.jpg	grid	9	rect:9	0.0	0	light	9	0
+b179/p133.jpg	rounded	2	rect:1 rounded:1	0.2	0	light	2	0
+b179/p162.jpg	rounded	1	rounded:1	39.0	1	light	1	0
+b179/p173.jpg	grid	3	rect:3	0.0	0	light	3	0
+b179/p211.jpg	touching	8	rect:8	0.0	0	light	8	0
+b179/p255.jpg	grid	2	rect:2	0.0	2	light	1	0
+b179/p273.jpg	rounded	2	rect:1 rounded:1	0.2	0	light	2	0
+b179/p274.jpg	grid	5	rect:5	0.0	0	light	5	0
+b180/p000.jpg	single	1	rect:1	0.0	1	dark	1	0
+b180/p007.jpg	grid	6	rect:6	0.0	0	light	6	0
+b180/p010.jpg	slanted	6	rect:4 slanted:2	3.2	2	light	6	0
+b180/p015.jpg	grid	6	rect:6	0.0	1	light	6	0
+b180/p027.jpg	touching	6	rect:6	0.0	0	light	5	0
+b180/p030.jpg	grid	4	rect:4	0.0	0	light	4	0
+b180/p032.jpg	touching	5	rect:5	0.0	0	light	5	0
+b180/p033.jpg	touching	6	rect:6	0.0	2	light	6	0
+b180/p042.jpg	grid	5	rect:5	0.0	0	light	5	0
+b180/p044.jpg	grid	4	rect:4	0.0	0	light	4	0
+b180/p048.jpg	slanted	3	rect:2 slanted:1	4.9	0	light	3	0
+b180/p051.jpg	grid	4	rect:4	0.0	0	light	4	0
+b180/p052.jpg	notched	5	notched:1 rect:4	0.4	0	light	5	0

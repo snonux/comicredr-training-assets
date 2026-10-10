@@ -1,0 +1,5 @@
+# The scan and the source list name the files of the collection the pages
+# were made from; they stay on the machine that made them.
+/scan/
+/moredata/sources.tsv
+__pycache__/

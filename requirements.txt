@@ -1,0 +1,7 @@
+# What border_pages.py needs (Python 3.11 or later). ComicRedr itself must
+# be checked out beside this repository: its spike/evaluate.py is imported.
+opencv-python-headless
+numpy
+pillow
+pypdfium2
+onnxruntime
