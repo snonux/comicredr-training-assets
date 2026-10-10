@@ -4,6 +4,28 @@ Written 2026-10-10 for whoever (person or LLM) does the next training run.
 Read this whole page first; `README.md` here and `docs/training.md` in
 ComicRedr have the detail.
 
+> **Done, 2026-10-10.** This page is kept as the brief of that run. How to
+> train now is [TRAINING.md](TRAINING.md); the results are in its "Runs
+> so far". In short: no run beat the shipped model, which stays. What
+> turned out wrong below:
+>
+> - The checkpoint is not needed. `make train-model FROM=shipped`
+>   rebuilds it from the ONNX file (`spike/onnx_to_checkpoint.py`), so
+>   path A works anywhere; path B was not taken.
+> - The hook branch is merged into ComicRedr's `main`. `LOCAL=1` also
+>   adds the NC/ND/SA books; `LOCAL=more` adds only `moredata/`.
+> - `spike/requirements-train.txt` lacked scipy (D-FINE's matcher needs
+>   it), and a plain `pip install torch` fetches some 3 GB of CUDA
+>   libraries: install the CPU wheel first (TRAINING.md, "Setup").
+>   Python 3.13 works as well as 3.11.
+> - An epoch with `moredata/` took 26 to 28 minutes on 4 cores, not 20
+>   (2,306 training and 215 validation pages, as expected).
+> - Runs now go to `checkpoints/RUN/` here, kept every epoch and
+>   resumable, not to `spike/out/local/`.
+> - "The fake pages are easier, so a small gain or none": they made modern
+>   pages worse (39 right instead of 47). The made-up art is the cause,
+>   and 54 pages label two panels as one frame; `real_art.py` fixes both.
+
 ## The task
 
 Continue training the shipped panel detector with the 1,123 fake pages in

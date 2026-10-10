@@ -15,6 +15,8 @@ adds to it and replaces nothing.
 | `border_pages.py` | scans comics, prints the numbers, makes the fake pages |
 | `borders.py` | reads the frame borders off a page |
 | `fake_art.py` | the made-up art that fills the frames |
+| `real_art.py` | the same layouts with real art from ComicRedr's clean training pages (`moredata-art/`, made, not committed) |
+| `TRAINING.md` | how to train and retrain the detector with or without these pages, where runs are kept, and what the runs so far showed |
 
 A fake page is a real page's layout and nothing else. The gutter and the
 frames' border lines are the real page's pixels; the art inside every
@@ -113,34 +115,43 @@ no border line.
 
 The fake pages are easier for the model than the real pages they come
 from. Much of what makes a real page hard is its art, and made-up art
-does not carry that over. Expect these pages to help most with touching
-and notched frames and with tight boxes on slanted ones; whether they
-help at all is not measured yet. No model has been trained on them.
+does not carry that over. Trained on (2026-10-10, see
+[TRAINING.md](TRAINING.md#runs-so-far)), they made the detector worse on
+modern pages: it learned that a panel ends where the made-up colours
+change and joined real neighbours across thin gutters. 54 pages also
+label two panels as one frame. `real_art.py` fixes both and the damage
+goes, but no run with these layouts beat the shipped model.
 
 ## Training with them
 
-Check this repository out beside ComicRedr. Then, in ComicRedr:
+[TRAINING.md](TRAINING.md) has it all: setup, the one command, runs kept
+in `checkpoints/`, continuing from one, scoring and the results so far.
+In short, with this repository checked out beside ComicRedr, in
+ComicRedr:
 
 ```sh
-make train-model LOCAL=1      # adds ../comicredr-training-assets/moredata when it is there
-# or by hand
-python3 spike/train.py spike/train_pages spike/synth_pages ../comicredr-training-assets/moredata --out spike/out/local/train
+make train-model LOCAL=more FROM=shipped        # on top of the shipped model, with moredata/
+python3 ../comicredr-training-assets/real_art.py ../comicredr-training-assets/moredata spike/train_pages \
+    ../comicredr-training-assets/moredata-art   # the layouts with real art instead
+make train-model LOCAL=more FROM=shipped MORE=../comicredr-training-assets/moredata-art
 ```
 
-`spike/train.py` takes the folder as it is: `<book>/pNNN.jpg` with
+`spike/train.py` takes such a folder as it is: `<book>/pNNN.jpg` with
 `pNNN.json` beside it in labelkit's format (`w`, `h`, `panels` as
-`[x, y, w, h]` in pixels, empty `balloons` and `captions`), pages 1600 px
-on the long side like ComicRedr's own extracted pages. A tenth is held out
+`[x, y, w, h]` in pixels, `balloons` and `captions`), pages 1600 px on
+the long side like ComicRedr's own extracted pages. A tenth is held out
 for validation by its usual rule.
 
 What to keep in mind:
 
 - **Score before and after.** ComicRedr's three test sets (original,
   modern, diagonal) decide; a model must beat the shipped one there.
-- **Frames only.** The pages have no balloons or captions. With the 998
-  labelled and 400 synthetic pages they are 45% of the set; if balloon
-  scores slip, use fewer. `index.tsv` lets you pick: drop the `grid` and
-  `single` rows first, they are what the labelled set already has.
+  `make train-model` scores every run against it.
+- **Use `moredata-art/`, not `moredata/`.** The made-up art hurt modern
+  pages; the real-art pages did not (TRAINING.md, "Runs so far").
+- **Frames only in `moredata/`.** It has no balloons or captions; the
+  real-art pages carry the ones that come whole with the art. The 998
+  labelled and 400 synthetic pages are always in the run as well.
 - **Where the model is weakest is where there is least data**: 44 polygon
   pages, 2 round. ComicRedr's `synth_modern.py` can make more of those
   than any collection holds.
@@ -148,9 +159,10 @@ What to keep in mind:
   panels that touch at an angle. Nothing here covers them; they need hand
   labels.
 - **Licence.** ComicRedr publishes a model only when it learned from
-  public-domain, CC0 and CC BY books. These pages hold no art, but their
-  layouts come from books outside that list, so ComicRedr adds them only
-  to the model kept at home (`LOCAL=1`).
+  public-domain, CC0 and CC BY books. These pages hold no art of those
+  books, but their layouts come from books outside that list, so a model
+  trained on them (`LOCAL=more` or `LOCAL=1`) is kept at home, never in
+  ComicRedr's `assets/models/`.
 
 ## Making them again, or from other comics
 
