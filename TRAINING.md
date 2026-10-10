@@ -1,10 +1,38 @@
 # Training and retraining the detector
 
 Everything needed to train ComicRedr's panel detector again, with or
-without the fake pages in `moredata/`, from this repository's side. The
-recipe itself lives in ComicRedr and is the same for every model:
+without the pages made here, from this repository's side. The recipe
+itself lives in ComicRedr and is the same for every model:
 [docs/training.md](https://github.com/snonux/comicredr/blob/main/docs/training.md)
-there has the detail, and this page links to it rather than repeat it.
+there has the detail. This page says the same things in short, and what
+only concerns this repository in full.
+
+## Which model to train, and how
+
+| You want | Command, in ComicRedr | Can it ship? |
+|---|---|---|
+| A new built-in model | `make train-model`: from COCO, 30 epochs at 1e-4, the clean books only, the way the shipped model was made | yes, when it beats the shipped model |
+| A quick answer whether new pages or labels help | `make train-model FROM=shipped`: 8 epochs at 3e-5 on top of the shipped model, old pages and new | no: if they help, train fresh with them |
+| A model for yourself with this repository's pages | `make train-model LOCAL=more MORE=../comicredr-training-assets/moredata-art` (fresh), with `FROM=shipped` for a quick one | never |
+
+Only a fresh run ships, because training on top changes the numbers by
+itself: the control run below, on top with no new pages, made 4 more
+wrong camera moves on the original set. So judge an on-top run with new
+pages against that control, and when the pages win, train fresh with
+them and compare that with the shipped model.
+
+## How the shipped model was trained
+
+On 2026-09-26, with what `make train-model` does by default: D-FINE-S
+from `ustc-community/dfine-small-coco`, 30 epochs at 640 px, batch 4,
+AdamW at 1e-4, on the 998 labelled pages of the clean books in
+ComicRedr's `test/train.manifest.toml` and 400 synthetic pages from them
+(`synth_modern.py --seed 1`); the last epoch was exported. Guided right /
+whole / wrong: 73 / 17 / 10, 47 / 15 / 4 and 4 / 15 / 5 on the original,
+modern and diagonal test sets. None of this repository's pages were in
+it. Its checkpoint was not kept; `FROM=shipped` rebuilds one ("When a
+checkpoint is lost"). docs/training.md, "How the shipped model was
+trained", has every setting.
 
 ## Setup, once
 
@@ -34,12 +62,13 @@ run and scores it against the shipped model.
 
 | What | Command, in `~/git/comicredr` | Time on 4 cores |
 |---|---|---|
-| The shipped recipe, from COCO | `make train-model` | 30 epochs, 5 to 6 hours |
+| The shipped recipe, from COCO | `make train-model` | 30 epochs, 5 to 8 hours |
 | On top of the shipped model | `make train-model FROM=shipped` | 8 epochs, about 2 hours |
 | On top of a kept run | `make train-model FROM=../comicredr-training-assets/checkpoints/NAME/last` | 8 epochs, about 2 hours |
 | With `moredata/` added, on top | `make train-model LOCAL=more FROM=shipped` | 8 epochs, about 4 hours |
 | With the real-art pages instead | `make train-model LOCAL=more FROM=shipped MORE=../comicredr-training-assets/moredata-art` | 8 epochs, about 4 hours |
-| With `moredata/` and the NC/ND/SA books | `make train-model LOCAL=1` | from COCO, 10 hours or more |
+| Fresh from COCO with the real-art pages | `make train-model LOCAL=more MORE=../comicredr-training-assets/moredata-art` | 30 epochs, 13 hours or so |
+| The same with the NC/ND/SA books too | `make train-model LOCAL=1 MORE=../comicredr-training-assets/moredata-art` | longer still |
 | A quick check that it all runs | `make train-model EPOCHS=1 SCORE=0` | half an hour or so |
 | Score any model against the shipped one | `make score-model MODEL=file.onnx` | some 10 minutes a model |
 
@@ -50,12 +79,12 @@ pages of the plain set, 27 with `moredata/` added (2,306). The old data
 is always in the run: `moredata/` has no balloons or captions, and a
 model trained on it alone would forget them.
 
-A run without `LOCAL` also puts its model in ComicRedr's
+A fresh run without `LOCAL` also puts its model in ComicRedr's
 `assets/models/`, in place of the shipped one, uncommitted: that is how a
 clean model gets shipped. Until it is committed, `FROM=shipped` and the
 scores go by that file (the script says so);
 `git checkout -- assets/models/comicredr-panels.onnx` puts the shipped one
-back. With `LOCAL` the model never goes there.
+back. With `FROM` or `LOCAL` the model never goes there.
 
 ## The real-art pages
 
@@ -120,17 +149,34 @@ python3 spike/onnx_to_checkpoint.py assets/models/comicredr-panels.onnx /tmp/shi
     --pages spike/train_pages spike/synth_pages
 ```
 
-## Scoring
+## Comparing models
 
-`tool/score_model.sh` (or `make score-model`) scores models on ComicRedr's
-three test sets, which nothing is trained on: original 100 pages, modern
-66, diagonal 24. It fetches and extracts them the first time and writes
-`summary.md`: guided right / whole / wrong, panel F1, balloon F1, balloon
-stops on captions, milliseconds a page and file size, every model on the
-same machine. A wrong camera move is worse than showing a page whole, so
-more "right" bought with more "wrong" is no gain, and a balloon F1 that
-falls is a regression even when frames get better. The sets are small
-(24 diagonal pages): do not tune on them.
+ComicRedr's three test sets, which nothing is trained on, decide:
+original 100 pages, modern 66, diagonal 24. Every `make train-model` run
+scores itself against the shipped model into `scores/summary.md` in its
+run folder. To compare any models, in ComicRedr:
+
+```sh
+make score-model MODEL=../comicredr-training-assets/checkpoints/RUN/comicredr-panels.onnx
+tool/score_model.sh OUT shipped=assets/models/comicredr-panels.onnx a=A.onnx b=B.onnx   # several at once
+OVERLAYS=1 tool/score_model.sh OUT ...                                                  # and draw every page
+```
+
+`summary.md` has, per model and set, guided right / whole / wrong (what
+guided view would do on each page), panel F1, balloon F1, how often
+balloon mode stops on a caption, milliseconds a page and file size, all
+on the same machine, then every page whose outcome changed against the
+first model. A model is better than the shipped one when:
+
+1. it makes no more wrong camera moves on any set;
+2. it guides more pages right over the three sets together;
+3. its balloon F1 is no more than 0.01 lower on any set, and balloon
+   mode stops on captions no more often; and
+4. it is about as fast.
+
+A page or two either way is noise (24 diagonal pages): look at the pages
+that changed, and never tune on the test sets. docs/training.md,
+"Comparing models", has the columns in full.
 
 ## The licence rule
 

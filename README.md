@@ -130,10 +130,10 @@ In short, with this repository checked out beside ComicRedr, in
 ComicRedr:
 
 ```sh
-make train-model LOCAL=more FROM=shipped        # on top of the shipped model, with moredata/
-python3 ../comicredr-training-assets/real_art.py ../comicredr-training-assets/moredata spike/train_pages \
-    ../comicredr-training-assets/moredata-art   # the layouts with real art instead
-make train-model LOCAL=more FROM=shipped MORE=../comicredr-training-assets/moredata-art
+T=../comicredr-training-assets
+COMICREDR=$PWD python3 $T/real_art.py $T/moredata spike/train_pages $T/moredata-art   # the layouts with real art
+make train-model LOCAL=more FROM=shipped MORE=$T/moredata-art   # a quick test on top of the shipped model
+make train-model LOCAL=more MORE=$T/moredata-art                # fresh from COCO: the model to keep at home
 ```
 
 `spike/train.py` takes such a folder as it is: `<book>/pNNN.jpg` with
